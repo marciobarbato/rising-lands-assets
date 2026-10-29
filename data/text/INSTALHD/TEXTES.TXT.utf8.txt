@@ -1,0 +1,148 @@
+[FRANCAIS]
+// Languettes (0->3)
+Hangar
+Mercado
+Mapa
+Mecânica
+// Options du jeu (4->30)
+MENU
+CARREGAR
+SALVAR
+VELOCIDADE
+VOLUME 
+ATMOSFERA
+OBJETIVO DA MISSÃO
+REINICIAR A MISSÃO
+VOLTAR AO JOGO
+VELOCIDADE
+MONITOR
+ROLAGEM DA TELA
+VOLTAR AO MENU
+VOLUME
+EFEITOS SONOROS
+MÚSICA
+ABANDONAR A MISSÃO
+SAIR DO JOGO
+AMBIENCE
+BRILHO
+DETALHES VISUAIS
+ALTO
+MÉDIO
+BAIXO
+ATIVAR ZONA VISUAL
+SIM
+CANCELAR
+// Menu page 1 (31->36)
+MENU
+UM JOGADOR
+VÁRIOS JOGADORES
+VOLTAR À INTRODUÇÃO
+CRÉDITOS
+SAIR
+// Menu page 2 (37->39)
+NOVO JOGO
+CARREGAR JOGO
+CARREGAR CENÁRIOS
+// Aide pour information
+//   Matieres (40->43)
+Partes mecânicas
+Comida
+Rocha
+Tecnologia
+//   Vegetaux (44->51)
+Vegetais
+Abóbora
+Árvore
+Grama
+Água
+Magma
+Lixo
+Explosivos
+// Les troupes camps 1 (52->69)
+Soldado
+Incendiário
+Capitão
+Urso
+Druida
+Fazendeiro
+Mecânico
+Construtor
+Ladrão
+Colono
+Speeder
+Bunker
+Ceifeiro
+Bombardeiro
+Sun
+Helicóptero
+Balão
+SPIDER
+// Les batiments camps 1 (70->91)
+Farol
+Caserna
+Santuário
+Armazém
+Cultura
+Oficina
+Biblioteca
+Laboratório
+Hangar
+Muro
+Catapulta
+Canhão
+Ponte Elevadiça
+Circo
+Garagem
+Monastério
+Mercado
+Cristal
+Heliporto
+Hospital
+Monastério de Fusão
+Mina
+// Les icones d'actions (92->97)
+PARAR
+MOVER
+ATACAR
+TRABALHAR
+ESTOCAR
+//CHARGER transform en :
+Bomba
+// Les icones de sortileges (98->102)
+Visão
+Armadura
+Espelho
+Petrificação
+Nova
+// Le texte du drapeau (103->103)
+BANDEIRA
+// Le texte des joueur du marche (104->105)
+TENHA PIEDADE
+PROVOQUE
+// Le texte du marche (106->113)
+Alto
+Baixo
+Fechar
+Eu sugiro
+Eu desejo
+Invenções
+Unidades
+Recursos
+// Sauvegarde vide (114)
+Não há Jogos Salvos
+// Mission (115)
+Missão
+// Mission termine (116)
+Missão Completa
+// Provider (117)
+PROVIDER
+// Crer une session (118)
+Iniciar uma sessão
+// Join a session (119)
+Entrar numa sessão
+
+
+
+
+
+

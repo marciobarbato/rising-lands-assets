@@ -1,0 +1,86 @@
+{
+  "code_base": "cb3e3245d919eee47b9c05b07a296032fd19a3e9",
+  "counts": {
+    "audio_incomplete_frame_tails": 1,
+    "decoded_audio_samples": 551,
+    "decoded_graphics_banks": 8,
+    "decoded_graphics_frames": 12268,
+    "decoded_palettes": 7,
+    "original_audio_buffers_equal": 551,
+    "outputs": 761,
+    "preserved_parts": 98,
+    "preserved_sources": 96,
+    "reversible_text_files": 33,
+    "selected_source_files": 143,
+    "source_inventory_files": 626,
+    "structured_worlds": 43
+  },
+  "data_base": "7256128",
+  "decoder_gap_counts": {
+    "avi": 3,
+    "col_map_semantics": 2,
+    "flc": 38,
+    "fnt_glyphs": 1,
+    "lzs_pixels": 2,
+    "pie_pixels": 7
+  },
+  "extractor_commit": "4eb88f23b7b6c03bf1fcfcfee85ee5d53a5f548e",
+  "extractor_file_sha256": "145197a10d2b75e1d0f4d667d606d0068c964e079c172cbcb532499f6db4dc93",
+  "historical_generation": {
+    "extractor_commit": "12889765a00404a96d92e4483f71cb1b91debd4b",
+    "legacy_payload_commit": "e37806d2c32e914a20ed9d74e09196d4de8d4cb6",
+    "required_for_reproduction": false
+  },
+  "incomplete_pcm_frame": {
+    "bank": "P",
+    "index": 221,
+    "native_written_bytes": 291939,
+    "padded": false,
+    "tail_bytes": 1,
+    "variant": 0,
+    "wav_pcm_bytes": 291938
+  },
+  "inherited_unwritten_fixture_bytes_not_exported": 334880,
+  "manifest_sha256": "2a25904128ece9c0cc8113c3820bef6b65ee7ab9f97cc215030187afa44de63e",
+  "milestone_claimed": false,
+  "native_decoder_generation_passed": true,
+  "native_emulation_performed": false,
+  "native_written_audio_bytes_retained": 48945219,
+  "original_complete_audio_buffer_hashes_equal": 551,
+  "payload_bytes_equal_legacy_pack_for_all_761_outputs": true,
+  "post_publication_check": "The code ORIGIN pin is added after this immutable data commit/tag, then full verification is run against the published checkout and reported by the coordinator.",
+  "provenance": {
+    "bin": {
+      "bytes": 705418896,
+      "filename": "RISING_LANDS_BR_.BIN",
+      "sha256": "c2c09e87927cf5ebbe5d17ea17bffb53c82c2e68385e9259ad0453cc15ea616f"
+    },
+    "cue": {
+      "bytes": 210,
+      "filename": "RISING_LANDS_BR_.CUE",
+      "sha256": "766fbc02932e3f0454d411211991016142fd361930fc51528fe858fcbf738873"
+    },
+    "data_base": "7256128",
+    "extractor_commit": "4eb88f23b7b6c03bf1fcfcfee85ee5d53a5f548e",
+    "extractor_file_sha256": "145197a10d2b75e1d0f4d667d606d0068c964e079c172cbcb532499f6db4dc93",
+    "extractor_repository": "https://github.com/marciobarbato/rising-lands-reverse-engineering.git",
+    "original_download_url": "https://archive.org/download/risinglandsbr/RISING_LANDS_BR_.BIN",
+    "release_tag": "v1-4eb88f2",
+    "source_inventory_sha256": "d5057f3fae7f24d87e423856040962fdd09fbe4e80b9a0905726e9bbc7340211",
+    "url_provenance": "Exact URL supplied by the user; not downloaded again"
+  },
+  "release_tag": "v1-4eb88f2",
+  "schema": "rising-lands/assets-data-release-validation/1",
+  "sizes": {
+    "manifest_bytes": 1350352,
+    "max_file_bytes": 33554432,
+    "pack_total_bytes": 630554973,
+    "payload_bytes": 629204621
+  },
+  "source_inventory_sha256": "d5057f3fae7f24d87e423856040962fdd09fbe4e80b9a0905726e9bbc7340211",
+  "tooling_unit_tests": {
+    "failures": 0,
+    "passed": 16,
+    "skipped": 0
+  }
+}

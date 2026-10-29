@@ -1,0 +1,2330 @@
+
+
+APRESENTAÇÃO
+ A História
+ Objetivo do Jogo
+
+CONFIGURANDO
+ Configuração Necessária
+ Instalação no WINDOWS 95 
+ Controles de Som
+
+CARREGANDO
+Menus
+
+CONTROLES BÁSICOS
+ Explicação
+Controles Manuais - Objetivo da Missão
+Expansão Terrestre - Campo de Visão
+O Terreno - Os Recursos
+A Interface de Ícones
+Mini Mapa - Lendo
+Seleção e Controle de Unidade
+Movimento - Ataque
+Entrando em um Veículo ou Construção 
+Saindo de um Veículo ou Construção
+Selecionando e Controlando um Veículo ou Construção 
+Construindo - Funções Gerais
+Casos Especiais: a Muralha, a Porta Elevadiça e o Cristal
+Treinando Colonizadores
+Colhendo Alimentos
+Unidades de Comida
+Aumentando a População
+Construindo Minas
+Recolhendo Sobras de Metal
+Fabricando Veículos Terrestres 
+Fabricando Veículos Aéreos
+Reparando Construções
+Reparando Veículos Terrestres 
+Reparando o Heliped
+Tratando de Unidades Humanas
+Agrupando Unidades e Veículos
+
+
+
+
+
+
+CONTROLES AVANÇADOS
+Adaptação da Unidade Humana
+Recursos Recicláveis
+Menus de Missão - Invenções
+Druidas - Feitiços Mágicos
+Lançando Feitiços
+Tipos de Feitiços
+Furtando Inimigos - O Ladrão
+Capturando Veículos ou Construções
+Instalando Explosivos - O Bombardeiro
+O Heliped
+Negociando
+Fazendo uma Oferta
+Diplomacia
+Fazendo e Quebrando Alianças
+Clãs Inimigos: Fazendo e Quebrando Alianças
+Atalhos de Teclado
+
+O MUNDO DE RISING LANDS
+Os Clãs Nômades
+Sangues Azuis
+Rebeldes Amarelos
+Bandoleiros Vermelhos
+Chacais Verdes
+A Confraria dos Assassinos
+Criaturas das Sombras
+As Construções
+As Unidades
+Veículos
+
+CRÉDITOS
+
+APOIO TÉCNICO
+
+
+
+APRESENTAÇÃO
+
+O espectro do tempo Um futuro distante
+
+Um meteorito gigante ameaça aniquilar completamente nosso Planeta. As Nações do 
+Mundo se unem e mandam mísseis para o espaço para destruir a ameaça antes que ela 
+colida com a Terra. Mas a 
+Missão falha O maciço mensageiro da morte continua a caminho do seu destino final e 
+nada pode detê-lo. O cataclisma subseqüente ao choque do impacto obscurece a 
+maior parte da Terra e a civilização como a conhecemos
+Apenas alguns humanos sobrevivem
+
+Com o tempo, os sobreviventes se reagrupam. Quatro clãs distintos surgem, cada um 
+adotando cores diferentes: Sangues Azuis, Rebeldes Amarelos, Bandoleiros Vermelhos e 
+Chacais Verdes. Todos têm em seu coração um desejo: construir a partir das ruínas um a 
+sociedade poderosa que um dia governará o Novo Mundo.
+
+Pode haver apenas um governador e a luta pela supremacia promete ser brutal. Os clãs 
+logo formam exércitos para proteger seus territórios e conquistar inimigos perniciosos. Suas 
+relações, entretanto, não são sempre de confronto: os clãs normalmente trocam recursos 
+e negociam alianças entre si. E onde há alianças, há traições
+
+Como se não bastasse lutar, cada clã é forçado a lidar com os mestres da morte e 
+infidelidade: A Confraria dos Assassinos. A Confraria vive para matar e roubar e nada 
+está a salvo do seu longo e demoníaco alcance. Seus alvos favoritos são as cidades 
+recém-estabelecidas
+
+Há ainda outros inimigos com os quais os clãs devem lidar: as Criaturas das Sombras. 
+Pouco se sabe a seu respeito, e por uma boa razão.... Poucos são os que sobrevivem 
+após encontrá-las. Suas aparições são assustadoramente rápidas e mortalmente 
+acuradas, deixando uma trilha de devastação após sua passagem.
+
+
+APRESENTAÇÃO
+OBJETIVO DO JOGO
+
+Rising Lands é um jogo/simulação de civilização em tempo real.
+
+Seu Clã, os Sangues Azuis, é composto por Colonizadores que desempenharão papéis 
+diferentes no futuro pós-apocalíptico.
+ 
+Seu objetivo é formar um Novo Mundo a partir das Missões do jogo. Para conseguir tal 
+feito você deve:
+	- tentar ser bom para seus Colonizadores
+	- construir uma base populacional sólida
+	- utilizar e maximizar os recursos naturais
+	- construir edificações
+	- proteger seu campo de ataques inimigos e conquistar novas terras.
+
+No início de cada estágio, um objetivo da missão é dado. Ele permite que você comece 
+pesquisa tecnológica em uma das quatro áreas:
+	- Agricultura/Ecologia
+	- Serviço Civil
+	- Serviço Militar
+	- Religião e Magia.
+As descobertas nestas áreas vão determinar o futuro do seu clã.
+
+Todas as suas habilidades diplomáticas e econômicas serão necessárias, porque há 
+outros clãs lá fora lutando pelos mesmos recursos e terras.
+
+Seu campo de pesquisa tecnológica não vai levá-lo ao equilíbrio necessário para 
+manutenção de sua sociedade. É portanto sábio prever certas mudanças e formar 
+alianças com os clãs de sua preferência.
+ 
+Você não pode, entretanto, escapar totalmente da inevitabilidade da guerra, então 
+pode ser uma boa idéia treinar quantas tropas for possível para o Dia do Juízo Final
+ 
+Notas:
+- Descobertas tecnológicas e boa vontade são levadas de uma missão para a outra. A 
+partir da terceira missão, passa a ser importante monitorar as áreas nas quais você 
+conduz pesquisas.
+- Você pode também decidir assinar uma aliança precoce  (e talvez duradoura) com 
+outro jogador no início do jogo.
+ - Os objetivos de algumas missões incluem eliminar totalmente um dado clã inimigo. Um 
+clã inimigo é aquele que não assinou nenhuma aliança com o seu. 
+
+
+CONFIGURANDO
+
+CONFIGURAÇÃO NECESSÁRIA
+Computador: 100% IBM compatível
+Windows 95
+Processador: Pentium 90 no mínimo; recomenda-se 120 
+16 Mb de RAM
+Espaço em Disco: 57 Mb, recomenda-se 72 Mb 
+(se você quiser instalar DirectX, você pode precisar de mais 15 Mb)
+CD-ROM de 4 velocidades
+Placa de Vídeo: Windows 95 compatível
+Comandos: teclado e mouse 100% Microsoft compatíveis
+
+
+INSTALAÇÃO NO WINDOWS 95 
+Coloque o CD Rising Lands no seu drive de  CD-ROM.
+Uma caixa de texto vai aparecer automaticamente na tela. Duas opções estão 
+disponíveis: Install (Instalar) ou Quit (Sair). Escolha Install.
+(Caso a caixa de texto não apareça, clique duas vezes em Meu Computador e então 
+no CD-ROM Rising Lands.
+Duas opções estarão disponíveis: Install ou Quit. Escolha Install.)
+
+Nota: Nós recomendamos desativar a proteção de tela antes de começar o jogo. 
+
+O programa vai perguntar qual disco rígido usar para copiar os arquivos necessários para 
+começar o jogo. De acordo com a sua configuração, você pode ter uma ou várias 
+opções (C ;D ; E ; etc.). Escolha o disco rígido com o cursor do seu mouse. Se você quiser 
+sair da instalação, clique em Cancel (Cancelar) e então em Quit (Sair).
+
+Quando você selecionar Install o programa vai propor 'Rising' como nome para os 
+arquivos pertencentes ao jogo. Você pode mudar isso se quiser.
+Pressione <Enter> para confirmar sua escolha. Você dever ter pelo menos 57 Mb de 
+espaço livre no seu disco para instalar o jogo. Quando os arquivos tiverem sido copiados 
+pressione OK.
+
+Rising Lands usa tecnologia DIRECTX . Se você não o possui ou tem uma versão antiga, o 
+programa de instalação vai automaticamente reconhecer isso e pedir para você instalar 
+o DIRECTX. Para fazê-lo, siga as instruções da tela.
+
+
+CONTROLE DE SOM
+Antes de começar o jogo, vá para o Windows e clique com o botão direito do seu mouse 
+no ícone dos auto-falantes na base da tela e selecione Volume.
+
+Use o botão esquerdo do mouse para ajustar o volume:
+- O cursor de controle de  Volume ajusta o volume total.
+- O cursor Wave (Onda) ajusta o volume dos efeitos sonoros.
+- O cursor CD-Audio ajusta o volume da música.
+
+
+
+
+CARREGANDO
+MENUS
+
+Ao final da seqüência de introdução, a tela de menu aparecerá automaticamente.
+- Single Player (jogador único): para um jogador apenas; um novo menu vai aparecer
+- Multi-player game (jogo multi-usuário): modo de rede para vários jogadores; um novo 
+menu vai aparecer
+- Back to the introduction (de volta à introdução): repetir a seqüência de introdução
+- Credits (créditos): conheça nosso time
+- Quit (sair): voltar para o WINDOWS 95
+
+
+Single Player (Jogador Único)
+- New game (novo jogo): jogar a primeira missão
+- Load game (carregar jogo): escolher um jogo escolhido
+
+Nota: em qualquer momento ao longo do jogo você pode pressionar Esc para parar e 
+acessar as seguintes opções:
+- Load (carregar): escolher um jogo já salvo
+- Save (salvar): salvar um jogo em progresso
+- Mission objective (objetivo da missão): ler o objetivo da missão
+- Abandon the mission (abandonar a missão): voltar ao menu de introdução
+- Restart the mission (reiniciar a missão): voltar para o início da missão e recomeçar
+- Back to the game (de volta ao jogo): voltar ao jogo
+
+Nota: se você pressionar Esc enquanto estiver numa tela de menu, você voltará para a 
+tela anterior.
+
+
+Multi-player (multi-usuário)
+Você deve primeiramente escolher seu modo de conexão entre as opções abaixo:
+- Conexão IPX para Direct Play: até 4 jogadores simultaneamente.
+- Conexão TCP/IP para Direct Play: até 4 jogadores simultaneamente.
+- Conexão via modem para Direct Play: 2 jogadores.
+- Conexão serial para Direct Play: 2 jogadores.
+Uma vez selecionado o modo de conexão, um dos jogadores seleciona "Create a session" 
+(criar uma sessão), enquanto os outros jogadores selecionam "Join a session" (entrar em 
+uma sessão). Confirme para validar a opção desejada.
+A menos que seja especificado, os jogadores recebem as seguintes cores:
+Anfitrião: azul			Segundo jogador a entrar: vermelho
+Terceiro jogador: amarelo	 	Quarto jogador: verde
+
+Você pode ajustar a resolução de tela a partir da tecla F11
+(ela alterna de 800 x 600 para 640 x 480 ou vice-versa).
+
+
+CONTROLES BÁSICOS
+EXPLICAÇÃO
+
+Nota - Para tornar esse manual o mais fácil de entender possível, utilizamos termos 
+genéricos para definir elementos do jogo que funcionam de maneiras semelhantes. As 
+seguintes definições esclarecem as correspondências entre os elementos do jogo e os 
+termos genéricos:
+
+ELEMENTOS DECORATIVOS: elementos inativos e que não podem ser utilizados no jogo.
+ELEMENTOS ATIVOS: elementos ativos e que podem ser utilizados no jogo.
+
+ 
+
+RECURSOS
+Correspondem aos recursos à disposição no jogo.
+Pedras encontradas em minas
+Comida encontrada em campos de vegetais
+Restos de metal espalhados por aí
+
+ 
+
+VEÍCULOS
+Todos os objetos móveis.
+Veículos aéreos (Balão e Heliped)
+Veículos terrestres
+
+
+
+Construções 
+Essas são edificações que você pode construir:
+Estruturas Habitáveis (por exemplo o  Santuário)
+Muralha
+Porta Elevadiça
+Cristal
+
+
+UNIDADES
+Unidades não treinadas: Colonizadores
+
+Unidades Treinadas: todas as unidades que não Colonizadores
+Unidades Civis: (Fazendeiro, Mecânico, Construtor, Mensageiro)
+Unidades Militares: (Espadachim, Incinerador, Arqueiro, Druida e Capitão)
+Unidades Animais:  podem ser também militares, como por exemplo o Assassino e o 
+Pisoteador
+
+
+CONTROLES BÁSICOS
+CONTROLES MANUAIS
+
+Rising Lands é jogado principalmente com o mouse e atalhos de teclado. O mouse move 
+o cursor da tela e, dependendo do elemento clicado, uma dada ação (construção, 
+movimento, ataque, etc ) vai então começar.
+
+
+- O botão esquerdo do mouse é usado para seleção de veículo ou estrutura, para indicar 
+um a direção e para dar e confirmar ordens.
+
+ - O botão direito do mouse é para desselecionar. Não se esqueça de desselecionar a 
+unidade com o botão direito, pois se você não o fizer, a unidade selecionada não 
+obedecerá a sua próxima ordem.
+
+
+
+Quando um elemento ativo não é desselecionado, o cursor aparece como uma seta 
+branca e grossa nos elementos decorativos. 
+
+Por outro lado, quando o cursor está num elemento ativo, um círculo aparece piscando. 
+Se ele permanecer sobre o elemento por mais de dois segundos, o nome do elemento vai 
+aparecer numa caixa de informação e um medidor dará suas condições de vida útil.
+
+
+
+OBJETIVO DA MISSÃO
+Cada missão possui seu próprio objetivo, que você pode ler em um quadro antes do 
+início. Assim que os objetivos são alcançados, a missão é bem-sucedida e você recebe 
+permissão para iniciar a próxima missão. 
+
+Nota: alguns objetivos incluem eliminar um clã inimigo inteiro. Um clã inimigo é aquele com 
+o qual você não assinou nenhuma aliança.
+
+
+- Missão 1 -
+
+Introdução à Missão
+
+Sinopse:
+
+.../...
+
+Use essas setas para se mover ao longo do 
+texto
+".../..." indica a existência de um texto a 
+seguir.
+Clique aqui para começar a missão.
+
+
+CONTROLES BÁSICOS
+EXPANSÃO TERRESTRE - CAMPO DE VISÃO
+
+Quando você inicia um jogo, o perímetro ao redor de suas unidades, seus veículos e 
+construções estão visíveis, enquanto o resto do terreno inexplorado é coberto de negro.
+
+Enquanto seus planos de dominar o mundo avançam, você vai descobrir a existência de 
+novas terras afastando o misterioso véu negro. 
+Quando você deixar uma zona, esta será coberta por um manto cinza, e você não será 
+capaz de ver nenhuma atividade nesta área.
+Se você voltar à zona cinza, você pode descobrir que algo aconteceu na sua ausência.
+No jogo propriamente dito, as unidades, edificações e veículos iluminam uma área 
+relativamente grande.
+
+
+Zona negra inexplorada
+Zona cinza
+Zona onde observa-se atividade
+
+
+Nota: esses três tipos de coloração indicam seu campo de visão atual na tela principal e 
+no mini mapa..
+
+
+CONTROLES BÁSICOS
+O TERRENO  -  OS RECURSOS
+A tela do Terra Nascentes inclui todos os tipos de terreno que compõem a decoração:
+
+- pradarias (apenas zona onde é possível construir)
+- brejos
+- zonas vulcânicas
+- zonas pedregosas
+- deserto
+- áreas ensolaradas
+- lagos
+- florestas
+- montanhas
+
+Em Rising Lands não existe dinheiro. A única forma de intercâmbio monetário é feita com 
+os Recursos disponíveis, que podem ser de três tipos. Estes são essenciais, mas raros: você 
+deve administrá-los astutamente ou arcar com as conseqüências. Você pode estocá-los, 
+trocá-los ou roubá-los durante o jogo:
+
+	
+	- Comida - colhida nos campos pelo Fazendeiro, ela alimenta sua população e 
+leva colonizadores errantes de volta ao seu núcleo. Além disso, ela vai ajudá-lo a levar a 
+cabo seus planos de construção (veículos e edificações) e de treinamento dos seus 
+Colonizadores.
+
+	- Pedras - o Construtor pode extrair Pedras das minas localizadas embaixo das 
+montanhas e então usá-las para construir edificações.
+
+	- Restos de Metal - Restos de Metal da antiga civilização podem ser encontrados 
+em toda a parte. Mecânicos podem recolhê-los e usá-los na construção de veículos.
+
+Entrada da Mina
+Campo de Vegetais
+Comida
+Pedras
+
+Restos de Metal
+
+
+
+CONTROLES BÁSICOS
+A INTERFACE DE ÍCONES
+
+Indica o estado de seus estoques de Comida, Pedras e Restos de Metal em todos os 
+momentos.
+
+Quando você seleciona um personagem, veículo ou construção, os ícones vão aparecer 
+do lado esquerdo da barra de ícones; veja todos os ícones clicando nas setas existentes 
+na esquerda ou direita da moldura.
+
+
+Estoques de Pedra
+Estoques de Restos de Metal
+Estoques de Comida
+
+Esses ícones representam as ações possíveis correspondendo à unidade, veículo ou 
+construção selecionados. Ao passar o cursor sobre o ícone, o custo de recurso e nome da 
+unidade serão mostrados.
+Clique no ícone colorido de sua preferência para desencadear a ação correspondente.
+Se o ícone for cinza, não é possível construir.
+Cheque se:
+- você possui os recursos necessários
+- há um personagem, edifício ou veículo em construção.
+
+
+
+Custo em Recursos para Construção
+Edifício selecionado com funções 
+avançadas
+Setas de Movimentação de Ícones
+
+Seleção de Ícones
+
+Caixa de Informação
+
+ 
+
+
+CONTROLES BÁSICOS
+MINI-MAPA
+
+A tela principal do jogo mostra uma perspectiva  da área imediatamente adjacente, 
+enquanto o mini-mapa mostra uma vista mundial.
+
+Para posicionar o mini-mapa:
+	- Pressione a tecla Tab para fazer o mini-mapa aparecer e desaparecer.
+	- Reposicione o mini-mapa clicando o botão direito do seu mouse: uma cruz vai 
+aparecer . Ainda pressionando o botão direito, posicione o mapa da forma desejada e 
+então solte o botão.
+ 
+Para centralizar a tela principal, clique no mini-mapa com o botão esquerdo do mouse 
+(certifique-se de não ter uma unidade selecionada para fazê-lo).
+
+Economize tempo se você quiser mover veículos ou personagens por longas distâncias 
+rolando a tela principal:
+	1 - Selecione os veículos ou personagens que você deseja mover.
+	2 - Escolha o destino aproximado no mini-mapa e clique.
+	3 - Então, clique na tela de jogo para ajustar o destino.
+
+
+ROLANDO
+Coloque o cursor do mouse na lateral da tela; uma seta branca aparece e a tela vai 
+rolar na direção indicada na borda do campo de jogo.
+
+Setas de rolagem
+
+Você também pode usar as teclas de direção no seu teclado.
+
+
+
+CONTROLES BÁSICOS
+SELEÇÃO E CONTROLE DE UNIDADE
+
+Unidades humanas selecionadas aparecem dentro de um quadrado branco, com um 
+medidor de vida vertical e um gráfico de Comida. 
+
+O medidor de vida indica o número de pontos de vida daquele personagem: quando 
+totalmente verde, seu personagem tem o máximo de pontos de vida. À medida em que 
+o personagem é abatido, o medidor muda para amarelo e então para vermelhoo 
+último passo antes da morte. 
+O personagem pode apenas reconquistar pontos de vida se passar pelo Hospital (exceto 
+unidades animais, que não podem ter seus ferimentos ali tratados.) 
+
+Gráfico de comida com um dos quadrantes vazio: o personagem não está com fome
+Medidor de Vida
+Quadrado de seleção
+
+O gráfico de comida dá informação a respeito do estado do racionamento de Comida 
+para seu personagem. Se o gráfico estiver cheio, seu personagem está com o estômago 
+cheio; se ele estiver quase vazio, é uma boa idéia movê-lo para algum ponto onde haja 
+comida, para que ele não morra de fome. (ver "Comida" na página 22 para mais 
+detalhes)
+
+
+Unidades militares adquirem pontos de experiência, que aparecem na forma de 
+pequenos triângulos junto ao gráfico de Comida.
+Uma unidade militar pode adquirir um máximo de 4 pontos de experiência:
+ 
+ - nenhum triângulo: a unidade não possui pontos de experiência
+ - 1 triângulo: maior força de ataque
+ - 2 triângulos: armadura reforçada
+ - 3 triângulos: perímetro de visão aumentado
+ - 4 triângulos: consome menos Comida
+
+As unidades selecionadas vão obedecer suas ordens, não importando qual a área 
+visualizada. Desselecione a unidade após dar a ordem.
+- Selecione uma unidade com o botão esquerdo do seu mouse.
+- Desselecione uma unidade com o botão direito do seu mouse.
+Os mesmos procedimentos são usados para os veículos.
+
+
+CONTROLES BÁSICOS
+MOVIMENTO   -   ATAQUE
+
+Mova suas unidades selecionadas clicando sobre o destino desejado.
+
+Movimento possível: 4 pequenas setas piscantes apontam para o lugar escolhido. Após 
+clicar, uma cruz de confirmação vai aparecer.
+
+Movimento impossível: as mesmas setas citadas acima, mas com uma tarja vermelha.
+
+Ataque: se uma unidade militar for selecionada e uma estrutura inimiga for escolhida, o 
+ícone se transforma em uma cruz de ataque.
+
+
+Ícone para movimento possível
+Ícone para movimento impossível
+Ícone de confirmação
+Ícone de ataque
+
+Nota: ícones associados com movimento de veículos são os mesmos citados acima.
+
+
+
+CONTROLES BÁSICOS
+ENTRANDO EM UMA CONSTRUÇÃO OU VEÍCULO
+
+Selecione um personagem ou grupo de personagens, e então coloque o cursor do mouse 
+sobre a construção ou veículo desejados.
+
+Se os personagens puderem entrar, uma pequena porta vai aparecer aberta; clique 
+sobre ela e os personagens selecionados vão entrar.
+	
+ Se os personagens não puderem entrar, o ícone de movimento impossível vai aparecer.
+
+Colonizadores podem adentrar construções e veículos ocupados (a não ser o Heliped), 
+bem como os desocupados (cinza).
+
+Unidades humanas podem adentrar: - 
+veículos terrestres e o Balão, para 
+movimentação rápida (excetuando-se o 
+Arqueiro, que não pode entrar no Balão). - 
+um Hangar, que pode ser temporariamente 
+usado como estoque durante transações 
+comerciais. - um Hospital, para 
+tratamento. - um Santuário, para 
+tornarem-se Colonizadores novamente.
+Unidades animais podem adentrar: - Um 
+abraço, Hangar durante uma transação 
+comercial.
+O Santuário é um caso especial: unidades 
+humanas podem adentrá-lo, mas uma vez 
+dentro eles perdem sua identidade e se 
+tornam Colonizadores. Clique duas vezes 
+sobre o Santuário para deixar um 
+Colonizador sair.
+Veículos terrestres podem adentrar: - um 
+Hangar, para serem estocados 
+temporariamente durante uma transação 
+comercial. - uma Garagem, para serem 
+consertados.
+
+Veículos aéreos:
+- o Balão não pode entrar em uma 
+construção
+- o Heliped pode pousar no Heliporto para 
+ser carregado com bombas.
+
+
+
+CONTROLES BÁSICOS
+SAINDO DE UMA CONSTRUÇÃO OU VEÍCULO
+
+Quando você clica duplamente em um veículo, todas as unidades dentro dele vão 
+automaticamente sair.
+
+Quando você clica duplamente em uma construção, um Colonizador vai sair. Um clique 
+duplo significa que um Colonizador vai sair. Para que mais de um colonizador saia, 
+continue clicando duplamente até que o número desejado de Colonizadores seja obtido.
+
+ - o Hangar automaticamente recebe unidades e veículos durante transações comerciais
+ - Unidades mandadas para o Hospital são curadas e descarregadas automaticamente
+ - Veículos terrestres saem consertados automaticamente da Garagem 
+ - O Heliped decola automaticamente do Heliporto após ter sido carregado com bombas 
+
+ Notas:
+ - Construções e veículos possuem capacidades limitadas: uma vez lotados, unidades 
+extras devem esperar do lado de fora até que espaço esteja livre.
+    - O Portão de Cristal, a Muralha, a Porta Elevadiça e o Heliped são as únicas estruturas 
+que não podem ser adentradas por nenhuma unidade. 
+ 
+
+
+CONTROLES BÁSICOS
+SELECIONANDO E CONTROLANDO UMA CONSTRUÇÃO OU VEÍCULO
+
+
+Quando você clica sobre uma construção ou veículo funcionante (colorido), triângulos 
+piscantes (para construções ) ou um quadrado (para veículos) vão aparecer para indicar 
+que o elemento designado foi selecionado. Uma barra de estado e um conjunto de 
+blocos vão também aparecer.
+
+O conjunto de blocos representa a capacidade real da construção selecionada: cada 
+cor de bloco corresponde a uma unidade presente no edifício; o número de blocos vazios 
+indica quantas unidades você ainda pode colocar nesta estrutura.
+
+Um Colonizador saudável vive na Biblioteca: há espaço suficiente para mais dois 
+Colonizadores.
+
+A barra de estado é verde quando a sua construção está em boas condições. À medida 
+que esta for sendo atingida, a cor da barra de estado mudará para amarela e 
+finalmente para vermelha. Qualquer dano estrutural deve ser reparado o mais rápido 
+possível.
+
+
+Algumas construções  (por exemplo, Cultura, Armazém e Hangar) e veículos (Ribombador, 
+Colheitadeira e  Heliped) estão também representados por uma série de pequenos 
+blocos: estes representam sua capacidade de estoque. 
+
+Uma unidade humana dirige o Ribombador sem nenhum passageiro: Explosivos já foram 
+colocados e há três lugares vagos.
+
+Cada bloco colorido corresponde a um elemento estocado:
+- A Cultura pode ser preenchida apenas com Comida.
+- O Armazém estoca Recursos (cujo montante total é mostrado na barra de interface).
+- O Hangar abriga unidades humanas e veículos estocados temporariamente para 
+transações comerciais.
+- O Ribombador possui Explosivos de reserva.
+- O Heliped possui Bombas.
+- Espaço na Colheitadeira pode ser preenchido com unidades humanas ou Comida. 
+ 
+
+
+
+CONTROLES BÁSICOS
+CONSTRUINDO-  FUNÇÕES GERAIS
+
+
+Graças ao Construtor, você pode construir várias edificações, desde que você tenha 
+recursos suficientes (por exemplo, Pedras e Comida).
+
+Selecione um Construtor e as edificações que você pode construir aparecerão na barra 
+de interface. Escolha uma edificação e um quadrado sombreado correspondente vai 
+aparecer na tela. Movimente o quadrado pelo terreno: se ele estiver marcado em 
+vermelho, a construção não poderá ser realizada naquele local. Clique com o botão 
+esquerdo do seu mouse para iniciar as obras (use o botão direito para cancelar).
+Não se esqueça de desselecionar seu Construtor com o botão direito do seu mouse antes 
+de iniciar uma nova ação.
+ 
+
+Pode-se construir:
+- em uma planície (o único terreno apropriado)
+- ou se o quadrado não estiver marcado em vermelho.
+
+
+O tempo necessário para construção depende de sua complexidade.
+
+A edificação terminada é pintada em cinza: está desabitada. Para povoar uma nova 
+construção, mande um Colonizador para dentro; as cores irão voar e você terá acesso a 
+todas as funções internas.
+
+Quando uma construção estiver completamente vaga, esta se tornará cinza novamente 
+e você não poderá mais acessar todas as suas funções internas. 
+
+Você pode acelerar o processo de construção colocando mais Construtores para 
+trabalhar nas obras. 
+
+Construção impossível
+
+
+Construção possível
+
+Se e quando suas construções forem destruídas, as unidades que estiverem dentro 
+perderão parte dos seus pontos de vida. Se a edificação contiver um estoque de 
+recursos, estes serão também parcialmente perdidos.
+
+
+CONTROLES BÁSICOS
+CASOS ESPECIAIS: A MURALHA, A PORTA ELEVADIÇA E O CRISTAL
+
+Estas três edificações podem ser construídas pelo Construtor, mas são por definição 
+inabitáveis.
+
+Mostre um esquema de construção de Muralha para o Construtor e este levara a cabo a 
+ordem. Isso libera você para tomar conta de outros afazeres importantes, que 
+concernem a sobrevivência da sua colônia.
+
+Selecione o Construtor, clique com o botão esquerdo sobre o ícone da Muralha na barra 
+de interface e então clique sobre uma zona onde a construção seja possível. Após cada 
+clique aparecerá uma cruz sobre o terreno. Conecte as cruzes até que uma delimitação 
+para a construção da Muralha apareça e então clique com o botão direito do seu 
+mouse para desselecionar o Construtor. Você agora pode relaxar, sabendo que o 
+Construtor vai trabalhar pesado para terminar a Muralha.
+
+As Portas Elevadiças são construídas numa Muralha pronta, sendo abaixadas 
+manualmente com a aproximação de suas unidades e aliados, e levantadas quando 
+seus inimigos estiverem nas imediações.
+
+
+TREINANDO COLONIZADORES
+
+Colonizadores não possuem profissões: é tarefa sua treiná-los.
+
+1 - Coloque um ou mais Colonizadores nos seguintes edifícios: Santuário, Alojamentos, 
+Circo, Mercado, Templo ou Templo de Fusão.
+2 - Selecione uma construção. Uma lista de profissões vai aparecer na barra de interface, 
+bem como o custo de treinamento.
+3 - Escolha um dos ícones para iniciar o processo de criação de um Colonizador.
+4 - O tempo necessário para criar um Colonizador é mostrado em um cronômetro na Tela 
+Principal.
+5 - Novas unidades saem automaticamente da construção.
+
+Atenção: você não pode começar a treinar outro Colonizador em um mesmo edifício até 
+que o treinamento do primeiro esteja completo.
+
+
+CONTROLES BÁSICOS
+COLHENDO COMIDA
+
+Com o Fazendeiro você pode colher vegetais e transformá-los em Comida. Para facilitar 
+seu trabalho, a colheita é automatizada:
+
+Vegetais
+
+ 1 - Selecione um Fazendeiro e procure um campo de vegetais
+2 - Aperte a tecla Ctrl.
+3 - Quando seu cursor se mover por um local com vegetais, uma seta verde piscará.
+4 - Clique sobre o campo de vegetais para dar a ordem de ceifar. A seta se tornará 
+vermelha.
+5 - Mova o cursor para o destino desejado e clique sobre o botão vermelho.
+6 - Solte a tecla Ctrl.
+O Fazendeiro andará para a área selecionada e começará a colher.
+
+
+O Fazendeiro pode por Comida nos seguintes lugares:
+
+- em terreno acessível, para alimentar suas unidades de campo.
+- em um Armazém, para estocagem.
+- em uma Cultura, onde a comida atrairá Colonizadores errantes.
+  
+Cultura
+
+Nota: quando a seta vermelha estiver piscando e o destino escolhido for uma 
+construção, cheque a barra de estado e blocos para ter certeza de que você pode 
+colocar Comida neste lugar. Caso contrário, o Fazendeiro vai depositar Comida fora do 
+edifício.
+
+No jogo você também será capaz de usar a Colheitadeira para ajudar no cultivo. Essa 
+máquina aumenta muito o potencial de produção, mas, devido ao seu design, não pode 
+depositar sua carga diretamente numa Cultura. 
+
+
+CONTROLES BÁSICOS
+ALIMENTANDO SUAS UNIDADES
+
+Todas as unidades humanas precisam comer para sobreviver. Para descobrir o quão 
+famintas estão suas unidades, passe o cursor sobre elas e o gráfico de Comida vai lhe dar 
+a informação desejada. 
+
+ Uma unidade humana é automaticamente alimentada se:
+- estiver alojada em um edifício ou veículo
+- estiver perto de sacos de Comida
+- estiver perto de um Armazém. 
+
+Uma unidade bem-alimentada: três blocos estão cheios
+
+Para longas jornadas, é altamente recomendável que sacos de Comida sejam colocados 
+ao logo do caminho, para que as unidades se alimentem quando necessário.
+
+
+
+AUMENTANDO A POPULAÇÃO
+
+Selecione um Construtor para fazer uma Cultura e então coloque um Colonizador para 
+tomar posse. 
+Selecione um Fazendeiro para suprir a Cultura com Comida. Para cada cinco sacos de 
+Comida entregue, um novo Colonizador é criado.
+Colonizadores vão deixar a Cultura automaticamente se esta chegar a sua capacidade 
+máxima.
+ 
+
+Fazendeiro trabalhando duro 
+para suprir a Cultura com 
+Comida
+Capacidade do Edifício
+Estoques de Comida
+
+
+
+CONTROLES BÁSICOS
+GARIMPANDO PEDRAS
+
+O Construtor é o único membro de seu clã capaz de extrair Pedras para a construção de 
+seus edifícios.
+ 
+Como no caso do Fazendeiro, a tarefa do Construtor pode ser automatizada, utilizando-
+se os mesmos atalhos de teclado.
+1 - Selecione um Construtor para encontrar uma mina.
+2 - Aperte a tecla Ctrl.
+3 - Quando seu cursor se mover sobre uma Mina, uma seta verde piscará.
+4 - Clique sobre a Mina para dar a ordem de extração de Pedras. A seta se tornará 
+vermelha.
+5 - Mova o cursor para o lugar desejado e clique com o botão esquerdo.
+6 - Solte a tecla Ctrl. O Construtor irá para a área da Mina e começará a garimpar.
+ 
+Mina
+
+Coloque as Pedras:
+- em qualquer terreno acessível.
+- em um Armazém para estoque. 
+
+Nota:
+Quando a seta vermelha pisca e a área final é um Armazém, a barra de estado e blocos 
+vão fornecer informações sobre capacidade e estado de armazenamento. Se o 
+Armazém estiver cheio, o Construtor colocará as Pedras fora do edifício.
+
+
+CONTROLES BÁSICOS
+RECOLHENDO RESTOS DE METAL
+
+O Mecânico é o único personagem capaz de rastrear Restos de Metal espalhados pela 
+terra.
+ 
+Restos de Metal são necessários para a construção de veículos.
+
+
+O Mecânico funciona como o Construtor, usando os mesmos atalhos de teclado e os 
+mesmos destinos. A única diferença é que ele coleta Restos de metal, e não Pedras. 
+
+1 - Selecione um mecânico e procure por Restos de Metal.
+2 - Aperte a tecla Ctrl.
+3 - Quando seu cursor se mover sobre Restos de Metal, uma seta verde piscará.
+4 - Clique em Restos de Metal para dar a ordem de coleta. A seta se tornará vermelha.
+5 - Mova o cursor para o local desejado e clique no botão esquerdo do mouse.
+6 - Solte a tecla Ctrl. O Mecânico vai andar para a área indicada e começar a coletar.
+ 
+ 
+
+
+CONTROLES BÁSICOS
+FABRICANDO VEÍCULOS TERRESTRES
+
+Para montar um veículo terrestre você precisa de uma Oficina, Restos de Metal e 
+Comida.
+
+Selecione a Oficina. No canto esquerdo da barra de interface os veículos à disposição 
+vão aparecer. Clique sobre a sua escolha e a fabricação vai começar imediatamente 
+(desde que você possua os recursos necessários a mão). O veículo sairá 
+automaticamente da Oficina quando estiver pronto.
+
+Notas: 
+- um Colonizador da Oficina tomará posse do veículo. Se a Oficina não possuir nenhum 
+Colonizador dentro, você não terá acesso ao esquema de montagem. Nós portanto 
+recomendamos que você coloque pelo menos dois Colonizadores na Oficina antes de 
+iniciar a fabricação.
+- quando um veículo é destruído, as unidades dentro destes perdem pontos de vida.
+
+
+FABRICANDO VEÍCULOS AÉREOS
+
+Quando o primeiro Heliporto for construído, um Balão funcionante vai estar à disposição e 
+sem nenhum ônus. Este Balão é único por ser indestrutível. 
+
+Uma vez o Heliporto estando ativo, clique nele com o botão esquerdo do mouse: o ícone 
+do Heliped vai aparecer na barra de interface. Clique sobre ele para iniciar a 
+construção. Você necessita de Restos de Metal e Comida para construir o Heliped, mas 
+uma vez ele sendo totalmente automático, você não precisa colocar um Colonizador lá 
+dentro.
+
+Você pode fabricar um Heliped por Heliporto.
+
+
+CONSERTANDO EDIFÍCIOS
+
+Selecione um Construtor e então coloque o cursor do seu mouse no edifício que necessita 
+de reparos.  Uma torquês vai aparecer. Clique, e o Construtor vai começar a consertar o 
+edifício. 
+
+
+Para acelerar a reforma, chame maior número de Construtores e coloque-os para 
+trabalhar.
+
+
+CONTROLES BÁICOS
+CONSERTANDO VEÍCULOS TERRESTRES
+
+Há dois modos de se consertar veículos terrestres:
+
+1 - Selecione o veículo terrestre a ser reparado e  mande-o para a Garagem. Os 
+trabalhadores lá dentro irão reformá-lo. Uma vez pronto, o veículo sairá 
+automaticamente da Garagem.
+
+2 - Selecione um Mecânico e então mova  o cursor para o veículo terrestre uma chave 
+inglesa vai aparecer indicando que a ação é possível. Clique para iniciar os reparos.
+
+Notas: 
+- reparos a campo não são tão eficazes quanto os realizados na Garagem.
+- para economizar tempo, chame mais Mecânicos para trabalhar no veículo.
+- colocar Mecânicos próximos a campos de batalha permite que eles cheguem mais 
+rapidamente aos veículos danificados...e pegar quaisquer Restos de Metal jogados pela 
+área.
+
+
+CONSERTANDO O HELIPED
+
+Para consertar um Heliped, pouse-o no Heliporto mais próximo. Uma vez pousado, os 
+reparos, que normalmente demoram um certo tempo, começarão automaticamente.
+
+
+TRATANDO DE UNIDADES HUMANAS
+
+Após construir um Hospital, você poderá mandar unidades feridas para serem lá tratadas 
+(menos Assassinos e Pisoteadores). Eles vão recuperar seus pontos de vida e ser 
+descarregados automaticamente.
+
+
+CONTROLES BÁSICOS
+AGRUPANDO UNIDADES E VEÍCULOS
+
+Clique e segure o botão esquerdo do mouse; mova o cursor até que todas as unidades 
+e/ou veículos que você quer agrupar estejam dentro da caixa de seleção. Solte então o 
+botão: todas as unidades e/ou veículos dentro da caixa estão agora selecionados e 
+prontos para receber ordens.
+
+Use o teclado para preparar quaisquer grupos e então lhes dê números. Assim você 
+poderá chamá-los mais facilmente:
+Ctrl key + 1 a 0:De 1 a 
+0:Shift + 1 a 0:
+Memorizar seleção de uma unidade ou grupo de unidades. 
+chamar a seleção memorizada. chamar a seleção 
+memorizada e centrar a tela do jogo nela .
+
+
+CONTROLES AVANÇADOS
+ADAPTAÇÃO DAS UNIDADES HUMANAS
+
+O bom gerenciamento das unidades humanas é fundamental em Rising Lands. Nós já 
+vimos que Colonizadores podem ser treinados em diferentes profissões. Durante o curso 
+de suas vidas, eles podem ser treinados para assumir outras responsabilidades, conforme 
+suas necessidades. 
+
+Para tal, você deve mandar unidades humanas para o Santuário: uma vez lá dentro, elas 
+se tornam Colonizadores. Retire-os então do Santuário  e mande-os para treinamento na 
+profissão desejada.
+ 
+Por exemplo: você tem muitos Fazendeiros, mas poucos Espadachins, e você está sob 
+ataque. Selecione seus Fazendeiros e mande-os ao Santuário para tornarem-se 
+Colonizadores. Clique duplamente sobre o edifício para chamá-los para fora e mande-os 
+para os Alojamentos, onde serão treinados para lutar como Espadachins. 
+
+
+RECICLANDO RECURSOS
+
+Os Recursos são raros. Portanto, você não deve desperdiçá-los. Quando um veículo ou 
+construção é destruído, você pode recuperar parte do material e usá-lo para construir 
+alguma outra coisa (para Pedras mande um Construtor, para Comida mande um 
+Fazendeiro e para Restos de Metal mande um Mecânico).
+
+Você pode ainda vender quaisquer dos seus edifícios (mas nenhuma das suas outras 
+propriedades) pressionando a tecla DELETE e o botão esquerdo do seu mouse para 
+confirmar. Essa opção permite que você recupere parte dos recursos usados para sua 
+construção. 
+
+Nota: unidades habitantes do edifício são naturalmente afetadas pela sua destruição. 
+Os recursos são imediatamente reintegrados aos seus estoques, mesmo que você não 
+possua um Armazém. 
+
+
+CONTROLES AVANÇADOS
+MENUS DE MISSÕES - INVENÇÕES
+
+Entre cada missão em Rising Lands um menu vai aparecer na tela. Esse menu é 
+extremamente útil para ajudar a desenvolver estratégias e táticas de jogo
+
+O Menu de Missões possui duas funções:
+- ele indica qual o objetivo da próxima missão (ver página 9). 
+- ele ajuda a escolher um campo de pesquisas em uma de quatro diferentes áreas: 
+Agricultura e Ecologia, Pesquisa Militar, Serviço Civil e Mágica e Religião.
+
+Clique aqui para acessar o 
+Menu Principal
+
+Indica o estágio de pesquisa 
+atual em porcentagem
+
+Objetivo da próxima missão
+Marcas coloridas mostram o 
+número de invenções 
+descobertas 
+
+Agricultura e Ecologia
+Religião e Mágica
+clique aqui para confirmar o 
+campo de pesquisas e 
+começar a missão
+Serviço Civil
+Pesquisa Militar
+
+Você pode escolher um campo de pesquisas por missão. Clique com o botão esquerdo 
+sobre o ícone que representa o campo de pesquisas que você quer seguir. Uma vez 
+iniciada uma missão, você deve construir um Laboratório e torná-lo operante, para que 
+as pesquisas lá se desenvolvam. 
+
+Você mantém suas descobertas tecnológicas de uma missão para a próxima. A partir da 
+terceira missão, é importante monitorar as áreas nas quais você conduz pesquisas. 
+Durante as duas primeiras missões, você não poderá realizar pesquisas; além do mais, 
+pesquisas em Religião e Mágica só são possíveis após você descobrir o Portão de Cristal. 
+Quando o jogo começa, você já possui certas tecnologias, como por exemplo, a 
+habilidade de construir um Santuário ou treinar um Espadachim. Por essa razão as 
+pesquisas já podem ser consideradas em estágio avançado desde a primeira missão 
+(mas você só poderá começar a pesquisar a partir da terceira missão).
+
+Colonizadores designados para o Laboratório de Pesquisas podem fazer no máximo duas 
+descobertas por missão. Após isso, eles se sentem tão satisfeitos com suas conquistas que 
+param de trabalhar e tiram uma soneca. Se ao fim de uma missão eles tiverem feito 
+apenas uma descoberta ou nenhuma descoberta, o nível de pesquisa alcançado é 
+carregado para a próxima missão. Para se manter informado a respeito do sucesso de 
+seus pesquisadores, pressione Esc para voltar ao menu e pressione Objetivo da Missão. 
+Uma porcentagem aparece para indicar o quanto de pesquisa foi alcançado.
+ 
+É quase impossível descobrir todas as grandes invenções nos quatro campos de pesquisa 
+durante um único jogo. Uma vez completadas todas as missões, nós recomendamos 
+tentar uma outra estratégia de pesquisa no próximo jogo. 
+
+Logo que uma invenção é feita, um texto aparece logo acima da barra de interface, 
+bem como uma claquete de cinema. A invenção pode ser utilizada imediatamente 
+(excetuando-se Mágica - ver o próximo parágrafo). Clique sobre a claquete para 
+chamar uma seqüência de animação ilustrando os eventos. A claquete irá com o tempo 
+desaparecer.
+
+
+
+CONTROLES AVANÇADOS
+ DRUIDAS - MÁGICA (FEITIÇOS)
+ 
+Muitas condições precisam ser alcançadas antes que se possa adquirir e usar Feitiços. 
+
+1 - Você deve selecionar sua área de pesquisas no Menu de Missões, e então construir 
+um Laboratório e um Templo na próxima missão. Após passar  um certo tempo, uma 
+claquete de cinema aparece e um texto informa a descoberta de um Feitiço.
+
+2 - Você deve então construir uma Biblioteca na qual há antigos pergaminhos 
+descrevendo os feitiços. Clique no edifício e ícones de  Feitiço que correspondem às suas 
+descobertas que aparecem na barra de interface. Então clique no Feitiço que você quer 
+comprar.
+ 
+
+Notas:
+- você não precisa ter um Druida para comprar um Feitiço. Após a compra, clique no 
+Druida e um ícone de Feitiço vai aparecer na barra de interface. 
+- se sua Biblioteca for destruída durante uma missão, seus Druidas não poderão mais 
+lançar Feitiços. Para fazê-los recuperar seus poderes mágicos, você terá que reconstruir 
+sua Biblioteca e comprar mais Feitiços.
+
+
+
+LANÇANDO FEITIÇOS
+O Druida é o único personagem capaz de lançar feitiços, pois esse dom requer uma 
+concentração imensa e uma quantidade maciça de Mana (energia). Você pode checar 
+o estado psíquico dos Druidas observando os círculos de Mana ao redor de suas 
+cabeças: se estes forem pequenos, seu poder é também reduzido. 
+
+Recarregue a Mana do Druida mandando-o para um Cristal (faça um você mesmo ou 
+use o de um outro clã). 
+
+Para lançar um Feitiço, selecione um Druida com bastante Mana: os ícones de Feitiço 
+disponíveis vão aparecer na barra de interface. Clique na sua escolha com o botão 
+esquerdo e então, usando o mesmo botão, na zona ou elemento ativo no qual você 
+deseja lançar o Feitiço. 
+
+Nota:  embora os Feitiços sejam muito fortes, seus efeitos podem apenas ser sentidos 
+temporariamente. 
+
+
+CONTROLES AVANÇADOS
+TIPOS DE FEITIÇOS
+
+
+Visão: permite observar uma zona previamente fora de 
+visão (as áreas negras do mapa), ou uma zona que você já 
+visitou, mas foi abandonada (área cinza). A zona se torna 
+cinza novamente após um certo tempo.
+Custo...  Comida: 6 Pedra: 4 
+Mana: 2 Distância: 20 
+Alcance: 8
+Armadura: a armadura da unidade ou do veículo terrestre 
+é reforçada pelo Feitiço. 
+Custo... Comida: 20
+Pedra: 12Mana: 4
+Distância: 10
+Alcance: nenhum
+Espelho: uma imagem de espelho de uma unidade militar 
+ou veículo vai aparecer. Se você jogar o feitiço numa 
+unidade militar, sua réplica não poderá entrar num veículo 
+ou edifício. Se um veículo receber o Feitiço, sua réplica é 
+operacional, mas as unidades dentro dele não são 
+espelhadas. (Druidas não sofrem efeito deste Feitiço).
+Custo... Comida: 30
+Pedra: 16Mana: 6
+Distância: 10 
+Alcance: nenhum
+Petrificação: todas as unidades e veículos, incluindo a sua 
+própria, ficam congelados pela ação deste Feitiço 
+paralisante. 
+Custo...  Comida: 14
+Pedra: 10 Mana: 2
+Distância: 10 Alcance: 4
+Nova: um imenso projétil de Mana Druida. Lance-o contra 
+veículos, edifícios ou unidades. 
+Custo... Comida: 16Pedra 0 
+Mana: 8 Distância: 20 
+Alcance: nenhum
+
+Como resultado da sua pesquisa, você pode descobrir um novo tipo de Templo, o 
+Templo de Fusão. Esse edifício permite que você lance um novo e devastador tipo de 
+Feitiço: a Super Nova. 
+Logo que o Templo de Fusão esteja operante, uma Super Nova inicia sua vida cruel. Um 
+som vai avisar quando ela estiver pronta. Clique então sobre o templo de Fusão: o ícone 
+de Feitiço vai aparecer na barra de interface. Clique sobre o ícone e então na área que 
+você deseja destruir (edifícios, veículos, unidades, etc.).
+Você tem dez segundos para cancelar sua escolha antes da aniquilação da zona de 
+impacto. 
+
+
+CONTROLES AVANÇADOS
+FURTANDO OS INIMIGOS - O ARQUEIRO
+
+o Arqueiro é normalmente um membro de uma unidade militar, mas pode ser 
+transformado em um Ladrão.
+ 
+Selecione o Arqueiro e clique sobre o ícone de alvo que aparece na barra de interface.
+ 
+Para roubar recursos, clique sobre o ícone desejado de recursos, e então no ícone de 
+Armazém do seu inimigo. O Arqueiro irá automaticamente se dirigir ao estoque do seu 
+inimigo. Os recursos roubados serão então adicionados aos seus estoques. 
+
+Para roubar tecnologia proveniente de invenções: clique no ícone de roubar tecnologia e 
+então clique sobre o Laboratório do inimigo. 
+
+Se você transformou seu Arqueiro em um Ladrão e ele ainda não entrou no edifício 
+desejado, você ainda pode transformá-lo em Arqueiro novamente, mandando-o na 
+direção oposta. 
+
+Nota:  use o seu Arqueiro obtém sucesso na sua missão, ele desaparecerá para sempre. 
+
+
+CAPTURANDO VEÍCULOS OU EDIFÍCIOS
+
+Quando um edifício ou veículo está desocupado, um Colonizador do seu clã pode se 
+infiltrar nas unidades inimigas e tomar posse do lugar. 
+
+
+CONTROLES AVANÇADOS
+INSTALANDO EXPLOSIVOS - O BOMBARDEIRO
+
+O Bombardeiro é um veículo terrestre que permite que você deposite explosivos no solo. 
+
+Selecione o Bombardeiro e então, com  o botão esquerdo do mouse, escolha uma área 
+para colocar o explosivo. Uma pequena cruz irá piscar, mas vai desaparecer uma vez o 
+explosivo tendo sido depositado. O Bombardeiro pode depositar um monte de explosivos 
+de uma vez só. Uma vez o veículo tendo sido selecionado, clique apenas com o  botão 
+esquerdo em quantos lugares for possível antes de acabarem os explosivos: cada clique 
+materializa uma pequena cruz na tela, que desaparece logo que o explosivo é plantado. 
+Mande o Bombardeiro para a Garagem para ser recarregado com explosivos. 
+
+Nota: você não pode ver os explosivos dos seus inimigos, mas,  por outro lado, eles 
+tampouco podem ver os seus. 
+
+
+O HELIPED
+
+Um  Heliped é construído para cada Heliporto. Quando sua reserva de 5 bombas estiver 
+depletada, você terá que pousá-lo no Heliporto, onde ele será automaticamente 
+recarregado com bombas.
+
+
+CONTROLES AVANÇADOS
+NEGOCIANDO
+
+Negociar proporciona a oportunidade de obter muitos recursos necessários, unidades 
+que você ainda não treinou, ou mesmo veículos que a sua tecnologia ainda não 
+descobriu. Além, é claro, de permitir que você se livre de estoques indesejados. 
+Antes de começar a negociar você deve ter inicialmente um Mensageiro à mão, um 
+mercado e um Hangar. O Mensageiro pode ser criado quando houver um Mercado, 
+enquanto o Hangar vai servir como uma área de troca (o mesmo ocorrendo com outros 
+clãs que desejem realizar transações).
+Quando o Mensageiro é criado, você deve mandá-lo ao Mercado do clã com o qual 
+você deseja negociar. 
+Ao adentrar o Mercado desejado, o chapéu do Mensageiro aparece na interface de 
+barra. Para começar as transações, clique nesse chapéu e a janela do Mercado irá 
+aparecer. 
+
+Nota: graças a esse chapéu o Mensageiro não atrairá fogo inimigo, mas ao pressionar a 
+tecla Alt, um jogador pode atacá-lo. 
+
+2.  Estoque de Recursos
+3. Estoque Disponível
+4.  Clique aqui para cancelar 
+transação corrente
+1. Estoque de Unidades e Veículos
+  6. Sua Oferta
+5. Setas de rolagem
+7.Cor do Inimigo e Status de 
+Aliança
+  9. Sua Demanda
+8. Grau de satisfação inimigo
+
+11. Ícone de troca 
+inimigo
+10. Setas de rolagem
+13 Estoque de Unidades e 
+Veículos Inimigo
+14. Estoque de 
+recursos inimigo
+12. Cronômetro e 
+Confirmação de Negócio
+
+
+
+CONTROLES AVANÇADOS
+FAZENDO UMA OFERTA
+
+Abra a janela do Mercado e:
+
+Comece selecionando um de dois estoques de sua pilha de estoque (1 ou 2).
+Escolha a mercadoria que você deseja negociar (3 e 5) (lugares limitados).
+Selecione um entre dois estoques inimigos (13 ou 14) e então escolha a mercadoria do seu 
+interesse (11 e 10).
+Clique no cronômetro  (12) para ter uma indicação do nível de satisfação do seu inimigo 
+(8). 
+Nota: uma vez o cronômetro iniciado, acesso a janela do inimigo é negado.
+
+Se a oferta for recusada ou não completada no tempo permitido: a janela se fecha e a 
+negociação é interrompida.
+ 
+Se a oferta estiver em negociação:
+a barra de satisfação (8) posicionada no medidor permitirá ajustar sua oferta no tempo 
+permitido (o medidor irá subir).
+
+Se a oferta for aceita:
+você tem tempo limitado para encher seu Hangar para a troca. 
+Selecione o Hangar e ícones irão aparecer na barra de menu. Eles correspondem às 
+unidades que você tem que trocar (os ícones desaparecerão à medida que a 
+mercadoria entra no Hangar). Cálculos são realizados automaticamente uma vez a troca 
+no Hangar tendo sido realizada. 
+Tudo o que você precisa fazer é aguardar as unidades saírem do Hangar.
+
+Notas: 
+- se você não tiver tempo para preencher seu Hangar, a transação é simplesmente 
+cancelada (o inimigo, entretanto, não estará satisfeito).
+- o conteúdo dos veículos não conta nas transações (o inimigo ficará com ele).
+
+Dicas de como usar o Mercado:
+Quando você mandar um Mensageiro para um jogador controlado pelo computador, a 
+parte de baixo da caixa indica quais das mercadorias do jogador cibernético você quer 
+comprar. A parte superior da caixa mostra o que você preparou para pagar em troca. 
+Sua oferta possui um impacto na boa vontade do jogador virtual.
+ 
+Quando o computador manda um Mensageiro para você, a parte inferior da caixa 
+mostra o que o jogador inimigo deseja. Isso não pode ser modificado. A parte superior da 
+caixa mostra o que você deseja do computador, e, portanto as mercadorias mostradas 
+na parte superior da caixa pertencem ao computador. 
+
+
+
+CONTROLES AVANÇADOS
+DIPLOMACIA
+
+Jogadores controlados pelo computador possuem uma certa quantidade de boa 
+vontade em relação a você. Isso é o que determina o sucesso ou fracasso de alianças 
+com esses jogadores, bem como a qualidade das ofertas de troca. Diplomacia é a 
+melhor forma de assegurar boas relações entre clãs e ganhar aliados quando uma guerra 
+fria se torna quente.
+
+Para construir laços diplomáticos, você precisa de um Mensageiro do Mercado. O 
+Santuário é utilizado para assinar alianças. Descubra o estado das suas alianças 
+checando a bandeira afixada no canto inferior direito da sua tela. 
+
+
+FAZENDO E QUEBRANDO ALIANÇAS
+
+Crie um Mensageiro e mande-o para o Santuário do inimigo com o qual você deseja 
+realizar aliança. Uma vez o Santuário tendo sido encontrado, faça seu Mensageiro entrar.
+
+O processo de negociação começa quando seu Mensageiro entra no Santuário inimigo. 
+Um texto então aparece, notificando seu ato diplomático. 
+
+Alianças são quebradas se você ataca seus aliados. 
+
+Notas:
+- você pode também atacar um Mensageiro, negando assim a oportunidade de formar 
+uma aliança.
+- quando um Mensageiro completar sua missão, ele desaparece da face da Terra. 
+- alianças são vitais e não devem ser negligenciadas. É muito difícil passar por todas as 
+missões (e algumas missões em particular) sem aliados. Alianças e a boa vontade dos 
+jogadores controlados pelo computador são levadas de uma missão para outra.
+
+
+CLÃS INIMIGOS - FAZENDO E QUEBRANDO ALIANÇAS
+
+Um clã inimigo manda um Mensageiro para você. Quando ele entra no seu Santuário, sua 
+bandeira pisca na barra de interface. 
+
+- Se você aceita a aliança: a bandeira inimiga pisca por algum tempo, clique sobre ela 
+para aceitar a oferta.
+- Se você recusa a aliança: não clique na bandeira e a aliança não será assinada e 
+selada. 
+
+Alianças quebradas: após o aparecimento da claquete, a bandeira do clã que quebrou 
+a aliança vai piscar e desativar.
+Clique na claquete com a seqüência animada do evento. 
+A claquete irá desaparecer após algum tempo.
+
+
+
+CONTROLES AVANÇADOS
+ATALHOS DE TECLADO
+ 	
+Automação das tarefas de colher Comida, extrair Pedras e colher Restos de Metal:
+	1 - Selecione uma unidade.
+	2 - Aperte a tecla Ctrl.
+	3 - Quando seu cursor chegar a uma zona de colheita, uma seta verde aparece.
+	4 - Clique na zona de colheita para dar o comando de colher Comida. A seta se 
+tornará vermelha.
+	5 - Mova o cursor para o destino desejado e clique com o botão esquerdo do seu 
+mouse.
+	6 - Solte a tecla Ctrl.
+
+Tab: Shift:Ctrl +  1 
+a  0: 1 a  0:Shift +  1 
+a 0:tecla + do 
+teclado 
+numérico:tecla - do 
+teclado numérico: 
+Alt: E:F1, F2, F3, e 
+F4:F11: Setas: 
+ENTER ou X:barra 
+de espaço:DELETE:
+chama ou cancela o mini-mapaSeleciona várias 
+unidadesMemoriza a seleção de uma unidade ou grupo de 
+unidades chama a seleção memorizada chama a seleção 
+memorizada e centra a tela nelaaumenta a área 
+mostradadiminui a área mostradaordena que as unidades 
+militares selecionadas ataquemordena que a unidade 
+selecionada se alimenteAumenta a velocidade do 
+jogomodifica a resolução  (modo 800x600 ou 640x480).rolam a 
+tela principalfoca na última de suas unidades a sofrer ataque 
+(permite apenas um período curto pós-ataque).mostra os 
+pontos de nutrição e pontos de vida das suas unidades.vende 
+um de motor duplo alinhado a vapor exposto seus edifícios 
+(selecione o edifício, pressione DELETE e confirme clicando com o 
+botão esquerdo do seu mouse).
+
+
+
+
+
+O Mundo
+de
+Rising Lands 
+
+
+O MUNDO DE RISING LANDS
+	
+- OS CLÃS NÔMADES-
+
+Todos os clãs possuem o mesmo objetivo - ... encontrar a terra prometida
+
+Antes de seu desaparecimento, os Antigos falavam de uma terra mítica...a uma terra 
+onde o clã seria reconhecido por todos, e onde o Novo Mundo poderia surgir. Mas para 
+alcançar esse lugar eles deveriam enfrentar uma perigosa jornada por território traiçoeiro 
+e estar preparados para confrontar conhecimentos. Agora todos os clãs correm para 
+tomar posse dos melhores pedaços de terra e desenvolver melhor tecnologia, pois 
+apenas um clã vai se sobressair como o líder do Novo Mundo.
+
+
+SANGUES AZUIS
+
+Descrição:
+	· Unidos eles permanecem, divididos eles caem...
+	· Você controla os Sangues Azuis (seu líder foi morto em batalha)
+
+História:
+O vagar constante juntou pessoas de muitas culturas diferentes, civis e soldados. Assim 
+nasceu o clã dos Sangues Azuis. Entretanto, ele necessitava de um líder. Um encontro 
+com o líder dos Bandoleiros vermelhos ajudou a surgir esse líder. De fato, os Bandoleiros 
+vermelhos tentaram trazer os Sangues Azuis para seu lado, mas o estilo militar de governo 
+destes não agradou aos Sangues Azuis. Os Sangues Azuis foram forçados a escolher um 
+líder para resistir às pressões dos Bandoleiros vermelhos. Embora o nascimento deste clã 
+foi difícil, é seu papel levá-lo à vitória.
+
+
+REBELDES AMARELOS
+Descrição:
+     · Clã formado por um bandoleiro
+     · Copiam seus vizinhos Chacais Verdes e Bandoleiros vermelhos
+     · Sempre prontos a negociar (se você não for seu inimigo)
+
+História:
+ Abandonado, rejeitado por todos, o chefe dos Rebeldes Amarelos procurou vingança 
+contra aqueles que o rejeitaram. Governador soberano do seu território, ele vislumbrou as 
+vantagens de seguir a liderança de seus inimigos para então vencê-los em seu próprio 
+jogo. Os Bandoleiros vermelhos e os Chacais Verdes receberam o fardo dos ataques. 
+Entretanto, os anos viram uma mudança vagarosa e constante na forma como esse clã 
+opera. O seu líder desapareceu misteriosamente, deixando para seu clã a necessidade 
+de seguir adiante. O clã abandonou a bandidagem e está tentando se estabelecer em 
+uma área rica e pacífica. 
+
+
+
+BANDOLEIROS VERMELHOS
+Descrição:
+      · Clã liderado por um antigo soldado
+      · Política de poder
+      Os Bandoleiros vermelhos negociam se isso for de seu interesse
+
+História:
+Após o cataclisma, esse clã guerreiro foi muito rápido nos saques e pilhagem. Sendo uma 
+companhia multirracial, foi necessária uma mão de ferro para formar um front unido. As 
+terras que atravessaram foram povoadas por tribos fortes e brutais. É por isso que eles 
+logo se concentraram e desenvolver armas mortais. Hoje em dia esse clã é altamente 
+respeitado, e através de seu chefe pode tornar-se um inimigo mortal ou um poderoso 
+aliado. Cansada da guerra, a Brigada quer estabelecer sua supremacia em uma região 
+próspera. 
+
+
+CHACAIS VERDES
+Descrição:
+      · Um Fazendeiro governa os Chacais Verdes
+      · Agricultura governa a agenda política 
+      · Técnica de negociação feudal: proteção versus riqueza
+
+História:
+O clã mais antigo, os Chacais Verdes nasceram de um acordo entre um Fazendeiro e um 
+Construtor, uma combinação que atraiu um grande número de Colonizadores. Vindo de 
+uma região amaldiçoada com a fome e a miséria, eles desenvolveram tecnologia 
+agrícola superior. Mas a riqueza atrai as sombras, e eles foram forçados a melhorar seu 
+sistema de defesa. Sua tática é fugir rapidamente, e assim eles eventualmente tornam-se 
+nômades. Desde então, eles têm procurado um porto seguro para se estabelecer.
+
+
+A LIGA DOS ASSASSINOS
+
+Uma gangue de guerreiros assassinos, os membros da Liga dos Assassinos não se importam 
+com nada excetuando-se pilhagem. Eles nunca constroem vilas ou estabelecem 
+campos. A Liga, entretanto, pode ser descompromissada em seus negócios por possuir 
+um segredo que lhes dá acesso ao Mundo Negro  - o mundo doente das Criaturas das 
+Sombras. A melhor forma de livrar a terra de seu rastro pútrido é matá-los sem piedade. 
+
+
+CRIATURAS DAS SOMBRAS
+
+
+Um manuscrito antigo faz menção a um fenômeno bizarro que você irá certamente 
+descobrir. O que se segue é uma evidência reveladora e apavorante....
+
+Para todos os cidadãos da terra -
+Por favor, permitam que me apresente. Sou um viajante solitário que está preste a sair em 
+uma jornada da qual posso não voltar jamais. Deixarei este como um último testemunho, 
+pois posso não voltar de onde estou indo para avisar os humanos deste grave perigo.... 
+De longe eu sinto uma fumaça acre, seu odor avisando-me que entrei na zona morta. Me 
+aproximo com extremo cuidado e logo meus piores medos transformam-se em um 
+grotesco pesadelo acordado ...tudo é esquecimento.... Corpos estão espalhados pelos 
+fragmentos das ruínas, tão cortados e rasgados que se torna impossível a identificação. 
+Mas uma pobre alma ainda vive, pois ouço uma respiração trabalhosa, pesada e 
+entrecortada. Encontro-o, enterrado profundamente entre as pedras esmigalhadas. Ele 
+grita...Desesperado, tremendo, morrendo... "Fuja, seu tolo... Eles irão voltar 
+...novamente...." Peço-lhe para dizer-me mais. Ele é tomado por grande medo ao lembrar-
+se do terror. Logo os espasmos passam, à medida que controla sua insanidade. Ele 
+começa a relatar um assalto realizado por bestas totalmente aterradoras, homens 
+massacrando tudo ao seu redor, um estranho dragão místico, um mutante montado em 
+um javali africano lançando pedras e uma e uma tartaruga gigante.... Seu peito 
+esmagado move-se com grande esforço em seu suspiro final. Deixo os mortos e examino a 
+terra, onde encontro traços que parecem corroborar sua história trágica. Devo escapar 
+agora, enquanto ainda há tempo. 
+
+Mas Espere! Ouço gritos ásperos e vozes cruéis que congelariam seu sangue.... 
+
+Adeus.... E cuidado! ! !
+
+P.S. - Se essas coisas forem verdade, não desejo que nem mesmo meu maior inimigo sinta 
+a ira das "Criaturas das Sombras".... 
+
+
+OS EDIFÍCIOS
+
+- SANTUÁRIO -
+DESCRIÇÃO:
+Custo .........	Comida: 50	Pedras: 30
+Capacidade...	16
+
+FUNÇÃO: O Santuário é muito procurado como um ponto de encontro para o seu clã. As 
+salas espaçosas podem abrigar um grande número de Colonizadores, com uma sala de 
+aula que permite transformar estes Colonizadores em Fazendeiros, Construtores ou 
+Mecânicos. O Santuário é vasto e necessita de constantes reparos. Por essa razão, e 
+pelo fato de que maior número de membros do clã significa uma maior produtividade, nós 
+recomendamos encher o Santuário com o maior número possível de Colonizadores. Existe 
+também uma sala de conferências para negociações diplomáticas, onde tratados entre 
+clãs são assinados e oficialmente selados. 
+
+RUMORES CIRCULANTES SOBRE O SANTUÁRIO
+Construído para durar, o Santuário contém todo o conforto moderno - quartos individuais, 
+água quente e o melhor sistema de aquecimento disponível. Colonizadores se encontram 
+no Grande Salão para debater os editais passados pelo seu Grande Líder. Há rumores de 
+que lá haja um destilador alcoólico, e que apenas os iniciados (a Fraternidade da 
+Destilaria) pode dividir as bebidas. Para descobrir os prazeres do destilador, iniciantes 
+devem passar por uma iniciação rigorosa para provar sua fidelidade. Essa tradição, 
+entretanto, é desprezada, pois o doce licor afeta adversamente o comportamento dos 
+Colonizadores e causa insubordinação.
+
+- CULTURA -
+DESCRIÇÃO:
+Custo		Comida: 12	Pedras: 6         Capacidade...	5
+
+FUNÇÃO: Um lugar de recrutamento de Colonizadores, a Cultura é crucial para o seu clã. 
+Para atrair novos colonizadores, você necessita de pelo menos um Colonizador para 
+receber os novatos. Você deve também ordenar que um Fazendeiro preencha a Cultura 
+com mantimentos, o que custa cerca de 5 sacos de Comida para atrair 1 Colonizador. 
+Quando a Cultura estiver cheia, os novos Colonizadores estarão automaticamente livres. 
+
+
+RUMORES CIRCULANTES A RESPEITO DA CULTURA
+Há um salão de banquete gigantesco na Cultura e não é incomum haver grandes festas 
+lá. Os Colonizadores falam a respeito de uma passagem secreta conectada ao Santuário 
+através da qual um ótimo álcool é contrabandeado. Novos recrutas também falam de 
+quartos opulentos com iluminação suave e música, onde uma pessoa é tratada como rei. 
+Lindas mulheres servem os Colonizadores até que estejam prontos a se unir ao clã. 
+
+
+
+- ALOJAMENTOS -
+DESCRIÇÃO:
+Custo		Comida: 16	Pedras: 14	Capacidade...	8
+
+FUNÇÃO: Os Alojamentos são o lugar no qual são treinadas unidades armadas de terra. 
+O enorme terreno de treinamento dentro das quatro paredes dos alojamentos é 
+reservado para a educação de Espadachins nos pontos mais sofisticados da arte de 
+matar. Quatro tipos de tropas podem ser treinadas: Espadachins, Incineradores, Arqueiros 
+e Capitães. Tenha em mente, entretanto, que seus pesquisadores devem ter 
+primeiramente inventado as técnicas necessárias. Por exemplo, você não pode treinar 
+um Incinerador a menos que a técnica de incineração tenha sido inventada.
+
+RUMORES CIRCULANTES A RESPEITO DOS ALOJAMENTOS
+Qualquer ferramenta concebível para utilizar na guerra pode ser encontrada dentro das 
+grossas paredes triplas dos Alojamentos. O treinamento áspero, violento e intenso forja 
+uma forte camaradagem entre as tropas. À noite, junto ao brilho do fogo, os homens 
+matam sua sede com uma bebida forte e saciam sua fome com carne de cachaço 
+pilhados em território inimigo. As festividades duram muitas vezes até o amanhecer, 
+quando a sirene toca para sinalizar um novo dia de suor e trabalho exaustivo embaixo 
+dos golpes amáveis do chicote do Mestre. Andar pela rampa do forte oferece a melhor 
+vista da vila. 
+
+
+- ARMAZÉM -
+DESCRIÇÃO:
+Custo		Comida: 10	Pedras: 6	Capacidade...	2
+
+FUNÇÃO: essa estrutura é usada para estoque de todos os tipos de mercadoria: Comida, 
+blocos de Pedra ou Restos de Metal. Construa e enriqueça seu clã com estoques de 
+mercadorias fornecidas por  Fazendeiros, Construtores e Mecânicos. O Armazém não 
+possui uma capacidade ilimitada: Se você quer mais mercadorias do que as que você já 
+possui, você terá que construir mais Armazéns. Estes são conectados uns aos outros, 
+sendo essenciais para o crescimento e manutenção do seu clã.  Os Armazéns também 
+permitem que você use as mercadorias para negociar com outro clã. Quando destruídos, 
+parte das mercadorias estocadas são depositadas do lado de fora. Se você não tiver 
+Armazéns, suas mercadorias serão todas perdidas.
+
+RUMORES CIRCULANTES A RESPEITO DO ARMAZÉM
+Um estabelecimento vital, o Armazém é cheio de luz e perpassado por  uma rede de 
+dutos de ventilação. A Colheitadeira pode depositar uma carga completa dentro do 
+Armazém através de um conduto de ar, deixando que os empacotadores lá dentro se 
+encarreguem de outros afazeres mais importantes. Há um trato "oficial" entre os 
+empacotadores do Armazém e os Colonizadores do Santuário: os empacotadores 
+fornecem alimentos e em troca recebem bebida forte e intoxicante. Os Colonizadores 
+designados para o Armazém possuem a tarefa extenuante de experimentar a Comida, e 
+os residentes do Armazém preparam refeições maravilhosas para os habitantes da 
+Cultura. 
+
+
+
+- MERCADO -
+DESCRIÇÃO:
+Custo		Comida: 12	Pedras: 8	Capacidade...	2
+
+FUNÇÃO: Faça e quebre alianças e troque mercadorias no Mercado, através de uma 
+conexão direta com suas mercadorias no Armazém (Comida, Minerais e Restos de Metal) 
+e no Hangar (unidades mecânicas ou membros do clã). Para reforçar uma aliança ou 
+fechar um trato você deve mandar um Mensageiro para o Mercado do seu adversário. 
+Tratos não podem ser feitos se não houver Mercados ou Hangares. Para selar um pacto é 
+imperativo descobrir a localização do outro clã. Caso este não possua um Mercado, o 
+Santuário pode receber seus Mensageiros, e vice-versa. O Mensageiro do outro clã pode 
+também ser mandado para o seu Mercado para fechar um trato.
+
+RUMORES CIRCULANTES SOBRE O MERCADO
+Encontros clandestinos resultam em transações monetárias secretas e todo o tipo de 
+troca secreta de recursos, então deve-se ser particularmente cuidadoso ao construir esse 
+edifício: ele é a vitrine do seu clã. As numerosas janelas e vitrines oferecem uma 
+maravilhosa vista da sua colônia e os aposentos opulentos são muitas vezes utilizados 
+para divertir convidados. Conectado ao Hangar por um canal subterrâneo, o Mercado 
+pode ser rapidamente evacuado se necessário. Outros quartos incluem o centro de 
+exercícios e o laboratório de línguas, para garantir que seus Mensageiros estejam no auge 
+de seu condicionamento físico e fluentes em todas as línguas possíveis.
+
+
+- BIBLIOTECA-
+DESCRIÇÃO:
+Custo		Comida: 20	Pedras: 20	Capacidade...	3
+
+FUNÇÃO: Os Feitiços que você descobre são estocados nos arquivos da Biblioteca. Você 
+deve pagar um tributo para o Arquivista para cada rolo de pergaminho. Uma vez 
+desenrolado, seus Druidas alcançarão um nível mais alto de Feitiçaria.
+
+RUMORES CIRCULANTES SOBRE A BIBLIOTECA
+Poucos ousam entrar nas suas câmaras altas e silenciosas; alguns dizem que coisas 
+estranhas acontecem ali à noite e mencionam a luz tênue de velas flutuando por entre as 
+prateleiras, ladeadas por pergaminhos cobertos de poeira.
+
+
+
+- OFICINA -
+DESCRIÇÃO:
+Custo		Comida: 30	Pedras: 20	Capacidade...	8
+
+FUNÇÃO: O Mecânico vive para a sua Oficina, ela é sua casa fora de casa.... Aqui ele 
+constrói todos os veículos terrestres usados pelo clã, que foram primeiramente 
+desenvolvidos pelo seu time de pesquisadores. Um túnel subterrâneo dá acesso ao 
+material guardado no Armazém. Veículos danificados devem ir para a Garagem para 
+serem consertados, pois o Mecânico está sempre ocupado demais soldando, partindo, 
+cabeando e aparafusando para prestar atenção em qualquer coisa quebrada. 
+
+
+RUMORES CIRCULANTES A RESPEITO DA OFICINA
+
+A Oficina está equipada com tecnologia de automação futurista. Quando o Mecânico 
+acorda ele é levantado de sua cama, levado para sua mesa de jantar, limpo e vestido. 
+Toras de metal movem-se ao longo de um conduto, alimentando a prensa na ferraria, 
+transformando os cilindros em folhas de metal. Uma torquês gigante de alta pressão (a 
+mesma usada na Colheitadeira) corta e molda as folhas de metal assim confeccionadas 
+nas especificações exatas. Finalmente, o Mecânico pinta à mão as folhas e regula os 
+motores (montados a partir de restos). Os trabalhadores da fábrica possuem uma paixão 
+pela qual eles vivem e morrem: as Guerras Robóticas. Batalhas de robôs hidráulicos em 
+miniatura (só entre amigos) são travadas em noites de lua cheia. Embora os robôs sejam 
+montados a partir de ferrolhos e porcas espalhadas pelo chão da fábrica, o jogo é ilegal, 
+pois esse metal poderia ser reciclado de outra forma.... Uma garrafa da melhor bebida 
+vai para o vencedor....
+
+
+- TEMPLO -
+DESCRIÇÃO:
+Custo		Comida: 20	Pedras: 4	Capacidade...	6
+
+FUNÇÃO: Estudantes estudam no Templo para se tornar Druidas e dominar os segredos 
+do Cristal. Mantenha em mente que os Druidas necessitam de um Cristal para recarregar 
+sua Mana.
+
+RUMORES CIRCULANTES A RESPEITO DO TEMPLO
+
+O Templo é banhado em uma semipenumbra, como Cristal no centro iluminando a 
+estrutura circular. A cerimônia de iniciação dos Novos Druidas é absolutamente 
+espetacular. Eles devem se prostrar ante o Cristal, gotas de Cristal pingando sobre seus 
+corpos até estarem completamente encharcados. Um halo de luz forma-se então ao seu 
+redor e seus olhos assumem uma coloração azul cristalina. Após esse rito de passagem 
+para o reino espiritual, o noviço é novamente encharcado, mas desta vez nos prazeres 
+de uma bebida inebriante passando por suas veias até que ele se torne inconsciente na 
+Fonte do Cristal...
+
+
+-  TEMPLO DE FUSÃO-
+DESCRIÇÃO:
+Custo		Comida: 20	Pedras: 4Capacidade...	6
+O Templo de Fusão é um grande avanço em relação ao Templo comum. Logo que você 
+descobrir o processo de Fusão, você pode transformar seu Templo em um Templo de 
+Fusão. Selecione o Templo e clique no ícone de Melhoramento.
+
+FUNÇÃO: O Templo de Fusão permite que você lance uma SUPER NOVA, se seu clã 
+possuir os feitiços correspondentes. O esquema para a construção deste edifício requer 
+muita pesquisa no campo de Religião e Magia.
+
+RUMORES CIRCULANTES SOBRE O TEMPLO DE FUSÃO
+A comunidade religiosa considera o Templo de Fusão a experiência definitiva. Ele atingiu 
+status de cuIt por excelência logo após sua construção, pois apenas os melhores 
+materiais foram empregados para tal. Os Druidas que lá habitam instalaram uma 
+máquina de ventilação movida a energia solar, para fornecer condicionamento de ar. Os 
+Druidas gravam seus cânticos em um estúdio de som altamente secreto, escondido nas 
+profundezas do abrigo subterrâneo. Essas rapsódias melódicas flutuam pelo ar da noite, 
+trazendo sonhos doces e pura tranqüilidade para as almas dos que descansam Os 
+transeuntes que chegam a ouvir a música na escuridão profunda são lembrados de um 
+paraíso perdido, embora não saibam a razão....
+
+
+- PORTÃO DE CRISTAL -
+DESCRIÇÃO:
+Custo		Comida: 16	Pedras: 6
+
+FUNÇÃO: O Portão de Cristal é uma estrutura usada para recarregar a Mana psíquica 
+dos Druidas. Tudo o que os Druidas devem fazer é tocar esse Portão para ganhar energia. 
+Seus poderes são então restaurados e eles estão mais uma vez aptos a lançar Feitiços. 
+Seus Druidas podem também utilizar os Portões de Cristal dos seus inimigos, mas o inverso 
+também é verdade.
+
+RUMORES CIRCULANTES A RESPEITO DO PORTÃO DE CRISTAL
+Muitos acreditam que o Portão de Cristal dá acesso a poderes sobrenaturais. Alguns 
+Colonizadores supostamente praticam ritos secretos que os colocam em um transe 
+hipnótico, embora os Druidas proíbam tais atos sacrílegos e punam os transgressores 
+selvagemente. Infelizmente, nenhuma testemunha jamais escapou para confirmar os 
+rumores. Os comentários cercando os procedimentos no Portão de Cristal dá uma 
+vantagem aos Druidas: eles evitam que os não iniciados penetrem nesta área.
+
+
+
+- HOSPITAL -
+DESCRIÇÃO:
+Custo		Comida: 10	Pedras: 4Capacidade...	3
+
+FUNÇÃO: Mande unidades civis ou militares feridas em combate para serem tratadas no 
+Hospital. Uma vez curadas, elas são automaticamente soltas , prontas para a ação. 
+Como essa não é uma clínica veterinária, animais são proibidos de entrar.
+
+RUMORES CIRCULANTES SOBRE O HOSPITAL
+Os últimos avanços em matéria de tratamento hospitalar são usados para cuidar dos 
+pacientes. Geralmente os pacientes recebem um tablete branco efervescente solúvel 
+em água. Esses tabletes foram encontrados escondidos e um Colonizador doente 
+descobriu por acidente seus efeitos terapêuticos após tomar uma caixa inteira. Ele 
+começou a espumar pela boca e sacudir em convulsões violentas, mas após alguns 
+instantes os efeitos colaterais indesejáveis cessaram e ele começou a se sentir muito 
+melhor. Pesquisa médica descobriu os segredos desse maravilhoso tablete, que é agora 
+usado por todos.
+
+
+- LABORATÓRIO -
+DESCRIÇÃO:
+Custo		Comida: 24	Pedras: 12	Capacidade...	2
+
+FUNÇÃO: Pesquisa tecnológica avançada é conduzida no Laboratório. Seus técnicos 
+(Colonizadores altamente treinados) procuram modos de melhorar produtos 
+preexistentes, inventar tecnologias para novos veículos desenhados para aumentar a 
+produção e desenvolver armas poderosas. Cuide para que seu laboratório não seja 
+'visitado' por unidades de infiltração inimigas, que podem roubar suas invenções.
+
+
+RUMORES CIRCULANTES A RESPEITO DO LABORATÓRIO
+Uma grande construção de pedra abastecida por um moinho de vento subterrâneo, o 
+Laboratório não vem equipado com amenidades. Os trabalhadores ali trabalham dia e 
+noite para criar invenções que venham a assegurar a supremacia do clã. Um forte cheiro 
+de enxofre permeia o edifício. Esses elementos são usados para simular explosões maciças 
+e não é fora do comum haver máquinas enferrujarem em função da atmosfera altamente 
+cáustica. Diz-se que parte da destilaria foi fabricada aqui e que desde aquele dia, 
+sempre que os técnicos têm um pouquinho de tempo, eles refinam o sabor da bebida 
+apenas pelo prazer de satisfazer seus paladares exigentes.
+
+
+
+- HANGAR -
+DESCRIÇÃO:
+Custo		Comida: 12	Pedras: 8Capacidade...	8
+
+FUNÇÃO: O Hangar é um centro de trânsito, um lugar para a colocação de veículos e 
+humanos destinados a leilão. Um Mensageiro deve ser mandado ao Mercado do outro 
+clã para chegar a um acordo e fazer negócio. Quando o trato é feito, as unidades vão 
+aparecer no seu Hangar.
+
+RUMORES CIRCULANTES SOBRE O HANGAR
+Com seus dois níveis de estacionamento e numerosas camas de alvenaria, o Hangar 
+pode facilmente abrigar diferentes unidades. Sua superestrutura metálica torna-o quente 
+e úmido, deixando aqueles que lá moram muito suscetíveis a infecções pulmonares. Por 
+ser um posto de trânsito, é natural que este se torne o paraíso em matéria de tráfico ilícito 
+de mercadorias. Apostas sobre o destino das mercadorias ali estocadas são uma boa 
+fonte de renda para o gerente.
+
+
+- HELIPORTO -
+DESCRIÇÃO:
+Custo		Comida: 20	Pedras: 8	Capacidade...	4
+
+FUNÇÃO: O Heliped é construído e reparado na superfície do Heliporto, mantido e 
+dirigido por um Colonizador. Seu primeiro Heliporto operante vem completo com um Balão 
+indestrutível.
+
+
+RUMORES CIRCULANTES SOBRE O HELIPORTO
+Feito de aço duplo e espesso, o Heliporto é ancorado ao chão por braços hidráulicos. O 
+quarto subterrâneo ventilado é perfeito para jogar grandes sucatas, deixando-as lá. 
+Depois de um longo dia de trabalho, não é incomum os Colonizadores levarem o Heliped 
+ou o Balão para uma voltinha 
+
+
+
+
+- GARAGEM -
+DESCRIÇÃO:
+Custo:		Comida: 24	Pedras: 16	Capacidade...	4
+
+FUNÇÃO: Conserte todas as máquinas terrestres na Garagem. Reparos realizados na 
+Garagem são 100% efetivos. Se o Mecânico for chamado a campo, o resultado não é 
+tão bom. 
+
+
+RUMORES CIRCULANTES A RESPEITO DA GARAGEM
+A Garagem possui uma ponte elevadiça de aço, uma oficina de solda e uma oficina de 
+vidro. O edifício é totalmente automatizado, tornando o trabalho do Mecânico simples: 
+tudo o que ele tem que fazer é empurrar alavancas - os braços robotizados farão todo o 
+trabalho braçal e reconstruir os motores.Robôs danificados nas Guerras de Robôs podem 
+também ser reparados aqui. Mesmo o destilador pode vir até aqui, caso não esteja 
+produzindo o máximo de sua capacidade. Alguns dizem que garrafas de vidro são 
+produzidas aqui, , o que torna o transporte de bebida mais prático. Eles também dizem 
+que a Garagem produz frascos metálicos, para que todos possam dar um trago quando 
+desejarem....
+
+
+- FAROL -
+DESCRIÇÃO:
+Custo		Comida: 12	Pedras: 4Capacidade...	2
+
+FUNÇÃO: Esta estrutura de porte médio ilumina uma área relativamente grande, 
+permitindo que você detecte todos os movimentos das tropas inimigas sem precisar 
+mobilizar suas unidades. O Farol pode ser colocado em uma pequena área passível de 
+construção e pode servir como porto de observação do inimigo. Atacar um Farol 
+provoca contra-ataque rápido e severo.
+
+RUMORES CIRCULANTES SOBRE O FAROL
+Elevando-se a 15 metros de altura, o Farol possui a lâmpada mais poderosa da terra. 
+Movida a gás, ela reflete raios de luz por centenas de espelhos, lançando um arco 
+gigantesco e iluminando uma área enorme de terra. Há 365 degraus até o topo da 
+escadaria espiral e muitas vezes, após a longa subida, o zelador do Farol vai se esticar e 
+tirar uma soneca. Alguns dos Colonizadores dizem que um dos quartos é usado como 
+discoteca. Esse quarto é reservado aos soldados e é palco de lutas sem fim. De acordo 
+com um dos Mecânicos, eles chegam a disputar torneios de dança - os participantes 
+devem bailar até cair. O último a ficar em pé pode escolher uma nova função. Eles dizem 
+que uma vez um Capitão virou Soldado e um Soldado, Capitão. Mas esses são apenas 
+rumores.
+
+
+- CIRCO -
+DESCRIÇÃO:
+Custo		Comida: 20	Pedras: 6	Capacidade...	6
+
+FUNÇÃO: Treine Assassinos e Pisoteadores no Circo.
+
+RUMORES CIRCULANDO A RESPEITO DO CIRCO
+Com um trapézio e assoalho amplo, o Circo está equipado para treinar Assassinos e 
+Pisoteadores. Os alvos com forma humana ou de edifícios ajudam os Pisoteadores a 
+treinar manobras de carga. Fala-se sobre noites de lua crescente nas quais treinadores 
+fazem uma competição na qual o vencedor ganha uma viagem ao Santuário (à 
+destilaria, mais precisamente...).
+
+
+- TENDA DE CAMPANHA-
+DESCRIÇÃO:
+Custo		Comida: 10	Pedras: 4	Capacidade...	6
+
+FUNÇÃO: A Tenda de Campanha é um lugar usado para reunir forças terrestres. As tropas 
+alojadas aqui não consomem nada, o que geralmente ajuda a conservar muitos recursos 
+quando você está sob cerco.
+
+
+RUMORES CIRCULANTES A RESPEITO DA TENDA DE CAMPANHA
+O interior espartano possui apenas o equipamento básico para oferecer suporte de 
+campo para que tropas possam sobreviver a cercos ou lançar campanhas: camas de 
+campanha, um condensador a vapor para reaquecimento, algumas cadeiras e uma 
+mesa de cartas. Álcool é estritamente proibido, mas isso nunca impediu os meninos de 
+"dar um golinho" de vez em quando. 
+
+
+- CANHÃO DA TORRE-
+DESCRIÇÃO:
+Custo		Comida: 20	Pedras: 6	Capacidade...	2
+
+FUNÇÃO: Uma unidade de defesa fixa, O Canhão da Torre atira em todos os inimigos 
+dentro do alcance (excetuando veículos aéreos). Ele não consome energia, mas deve ser 
+ocupado por um Colonizador.
+
+RUMORES CIRCULANTES A RESPEITO DO CANHÃO DA TORRE
+O Canhão da Torre é a estrutura defensiva perfeita. Ele tira sua energia de Cristais e 
+portanto não consome nenhum recurso estocado. Os Colonizadores que carregam e 
+disparam o Canhão treinam noite e dia em um simulador na floresta e possuem uma mira 
+magnífica. Face à sua ação pesada e vista abrangente, o Canhão é muito procurado e, 
+durante as noites escuras e profundas, Colonizadores tentaram entrar...mas sem sucesso -  
+o Canhão da Torre possui uma entrada secreta.... Embora o Canhão seja o lugar ideal 
+para lutas intensas, há muitos Colonizadores que prefeririam o conforto e segurança do 
+Santuário... com destilaria e tudo....
+
+
+- CATAPULTA -
+DESCRIÇÃO:
+Custo	Comida: 10	Pedras: 4	Capacidade...	1
+
+FUNÇÃO: Uma unidade de defesa fixa, a Catapulta atira em todos os inimigos à vista, 
+incluindo o Heliped, mas consome 1 pedra para cada tiro. Deve haver um Colonizador na 
+roda.
+
+RUMORES CIRCULANTES SOBRE A CATAPULTA
+A Catapulta é particularmente desconfortável em função de seus compartimentos 
+intrincados e claustrofóbicos. Mas esse lugar possui um charme todo especial: uma rede 
+que balança entre dois braços hidráulicos. O problema é que esta disposição pode 
+emperrar o mecanismo de disparo. Por sorte, isso ainda não aconteceu... ainda ....
+
+
+
+- A MURALHA-
+DESCRIÇÃO:
+Custo.........	Comida: 1	Pedras: 2
+
+FUNÇÃO: Muralhas são fortificações que servem para proteger todos os veículos, 
+unidades de combate e edifícios de ataques inimigos. Construtores podem receber 
+ordens para erigi-las em pontos vulneráveis a ataque ou reforçar estruturas defensivas 
+existentes. As Muralhas aparecem na forma de cruzes que desaparecem conforme a 
+construção avança.
+
+RUMORES CIRCULANTES A RESPEITO DA MURALHA
+Colonizadores passam muitas horam embaixo da Muralha protetora, sabendo que as 
+espessas pedras triplas vão repelir todos, menos os ataques mais horrendos e 
+determinados. A Irmandade da Destilaria se encontra aqui para provar do seu 
+fermentado favorito....
+
+
+- A PORTA ELEVADIÇA -
+DESCRIÇÃO:
+Custo.........	Comida: 4	Pedras: 8
+
+FUNÇÃO: As portas elevadiças são constituídas por um grande portão de metal que cria 
+uma abertura na Muralha. Um Construtor coloca-as entre dois segmentos da Muralha, e 
+estas  podem ser fechadas para impedir a entrada de unidades e veículos inimigos. 
+
+RUMORES CIRCULANTES A RESPEITO DA PORTA ELEVADIÇA
+Diz-se que o metal utilizado para a sua construção foi tirado dos Cofres Públicos. Um 
+Construtor decidiu usá-lo para construir um portão na Muralha, mas este era tão pesado 
+que afundou no chão. Para puxá-lo novamente, ele teve que construir uma moldura 
+metálica e um sistema de braçadeiras hidráulicas. Mas o mecanismo emperrava 
+constantemente, e surgiu então a idéia de usar um sistema hidráulico medieval, que está 
+ainda hoje em uso. 
+
+
+
+AS UNIDADES
+
+- COLONIZADOR -
+Unidade Civil
+Custo	Comida:5	Visão: 5/10
+Ferramentas: nenhuma (talvez uma vassoura...)
+Papel: ocupar edifícios, ser treinado.
+Recrutamento: Cultura
+
+A VIDA DE UM COLONIZADOR
+Um itinerante, o Colonizador aguarda até ser recrutado. Indolente e preguiçoso por 
+natureza, ele gosta acima de tudo de deitar em sua rede embaixo do sol e tirar uma 
+longa soneca. Após ser tratado com indulgência pelo recrutador, ele acha difícil se 
+encaixar na sua nova posição. Suas opções: treinamento, ou se tornar um zelador.... Essa 
+mudança radical toca-o profundamente, a tal ponto de levá-lo a refugiar-se no sono, o 
+que ele faz mais do que qualquer outra coisa. Considerado divertido pelos companheiros, 
+ele não gosta que zombem dele e espera um dia recuperar sua liberdade perdida. Ele é 
+um incansável viajante e ama dirigir veículos motorizados e esmagar inimigos, esperando 
+através disto alcançar algum tipo de reconhecimento.
+
+
+- FAZENDEIRO -
+Unidade Civil
+Custo		Comida:5	Visão: 5/10
+Ferramenta: alfanje
+Papel: colher Comida
+Recrutamento: Santuário
+
+A VIDA DE UM FAZENDEIRO
+Irmão de um acadêmico e filho de um Colonizador, ele é o melhor amigo do seu primo 
+Mecânico. Com a pele marcada e rachada por anos de trabalho intenso, sabe seu lugar 
+na sociedade, pois descobriu precocemente ter um dedo verde e aprendeu a usar a 
+colheitadeira para colher o sustento do solo. Ele trabalha duro e é um homem de poucas 
+palavras, o que não o impede de lutar contra um Espadachim que o atrapalhe no seu 
+serviço. Um de seus maiores desejos é a criação de uma máquina de colheita, para que 
+ele não precise mais sujar suas mãos o tempo todo. Seu maior sonho, entretanto, é se 
+tornar um Druida da Terra e entrar em comunhão com a natureza.
+
+
+
+- MECÂNICO -
+Unidade Civil
+Custo	Comida: 6	Visão: 5/10
+Ferramentas: chave inglesa
+Papel: colher Restos de Metal, construir/reparar veículos.
+Recrutamento: Santuário
+
+A VIDA DE UM MECÂNICO
+Filho do Mensageiro, primo em primeiro grau do Capitão, ele provou ser brilhante na 
+comunicação com o Assassino. Seu gosto peculiar advém de um acidente banal na 
+juventude: ele estava brincando com uma máquina a vapor e teve suas costas 
+queimadas. Desde então ele não conseguiu mais sossegar, preferindo trabalhar em 
+máquinas e motores. Ele possui uma verdadeira paixão por velocidade e trata seus 
+veículos como bebês. A única coisa capaz de preencher suas fantasias mais selvagens 
+seria uma solução de limpeza que tirasse completamente a graxa de suas mãos.
+
+
+- CONSTRUTOR -
+Unidade Civil
+Custo		Comida: 6	Visão: 5/10
+Ferramentas: martelo
+Papel: garimpar, construir e reparar edifícios.
+ Recrutamento: Santuário
+
+
+A VIDA DE UM CONSTRUTOR
+Irmão de um Soldado, primo do Mecânico, ele possui grande solidariedade pelo seu avô 
+Colonizador. Suas habilidades com construção apareceram durante uma tempestade: 
+ele salvou vidas montando rapidamente um abrigo com restos de madeira. Mais tarde, 
+ele desenhou e construiu o Santuário. Os Colonizadores convenceram-no a construir 
+quartos secretos na sua nova casa (por exemplo, a destilaria). Logo acabaram, 
+entretanto seus materiais para a construção destes aposentos, o que o forçou a 
+desenvolver habilidades de garimpeiro para coletar novos recursos. Sendo 
+consideravelmente independente, ele gosta de ser deixado em paz para fazer seu 
+serviço sem a presença de um chefe nas suas costas o dia todo.
+
+
+- ESPADACHIM-
+Unidade Militar
+Custo...	Comida: 6
+Visão: 5/10
+Arma: cimitarra e escudo
+Papel: combate corpo-a-corpo
+Recrutamento: Alojamento
+
+A VIDA DE UM ESPADACHIM
+Filho do Capitão, irmão do Construtor, ele é o braço direito do Incinerador. Desde criança 
+ele sonhava em lutar e é natural encontrá-lo hoje em dia treinando duro no alojamento. 
+Infelizmente, sua inteligência não atingiu o mesmo nível da sua habilidade bélica, e por 
+isso ele é o último na escala de comando. Ele está convencido, entretanto, que um dia 
+ele liderará um poderoso exército para a vitória no campo de batalha. Corajoso em 
+combate, ele prefere lutar em grandes unidades, pois não está interessado em tornar-se 
+herói. Se chegar um dia de paz no qual ele deverá depor suas armas, ele sentirá prazer 
+em ficar pela Biblioteca tentando aprender algo. 
+
+
+
+- INCINERADOR -
+Unidade Militar
+ Custo		Comida: 5	Pedras: 1 Visão: 6/10
+ Arma: lança-chamas
+Alcance: corpo-a-corpo
+Papel: transformar unidades inimigas em cinzas
+ Recrutamento: Alojamento
+
+
+A VIDA DE UM INCINERADOR
+O próximo em hierarquia depois do Capitão, ele é rápido para pegar informações úteis. 
+Quando criança ele gostava de brincar com fogo, mas "quem brinca com fogo é pra se 
+queimar", e isso é exatamente o que aconteceu. Um dia ele decidiu que iria dominar o 
+gás e o fogo, e montou um lança-chamas caseiro. Uma fagulha escapou do gatilho e 
+atingiu o gás, acabando com todos os seus planos grandiosos de "domínio". Felizmente 
+ele escapou com ferimentos leves. Quando o seu pai cientista descobriu sobre o 
+incidente, veio-lhe à mente a idéia de montar unidades de Incineração. O maior prazer 
+do Incinerador é ouvir a madeira crepitar no fogo gerado pelo seu lança-chamas. A 
+única desvantagem do lança-chamas é seu peso exagerado. Para minimizar esse 
+problema ele está atualmente desenvolvendo um modelo ultra-leve para unidades de 
+cavalaria.
+
+
+
+- LADRÃO/ARQUEIRO -
+Unidade Militar
+Custo...	Comida: 8
+Visão: 10/10
+Arma: arco e flecha
+Alcance: 10
+Papel: arqueiro, ladrão de tecnologia e recursos 
+Recrutamento: Alojamento
+
+A VIDA DE UM LADRÃO
+Presumivelmente filho do Mensageiro, ele aprendeu muito rápido a se virar, e roubar foi a 
+melhor forma que ele encontrou para fazê-lo. Ele também aprendeu que roubar não é o 
+suficiente: colocar uma seta entre os olhos de um passarinho voando a 50 passos de 
+distância é divertido, também. O Arqueiro possui uma outra arma: sua língua. Ele sempre 
+a usa para trazer o chefe para seu lado. Apesar desta habilidade útil, ele nunca será 
+encontrado em uma mesa de negociações, pois ele prefere de longe cuidar de seus 
+próprios afazeres. Seu único ponto fraco é sofrer de náuseas, tornando-o incapaz de voar 
+em expedições no Balão. Após roubar algo, ele desaparece, pois sua missão foi 
+cumprida.
+
+
+- DRUIDA -
+Unidade Militar-Religiosa
+Custo...	Comida: 20
+Visão: 5/10
+Arma: Cetro
+Alcance: corpo-a-corpo ou lançamento de Feitiços à distância
+Papel: estudar para se tornar Mestre do Cristal
+Recrutamento: Templo ou Templo de Fusão
+
+A VIDA DE UM DRUIDA
+Filho de um acadêmico, ele é rejeitado por todos os membros de sua família, 
+especialmente pelo seu tio Capitão. Ele vive uma vida reclusa, buscando 
+incessantememente por níveis de conhecimento e espirituais mais altos. Sua busca 
+solitária levou-o a buscar o Domínio do Cristal. Paciente e obstinado, ele é imensamente 
+forte quando está no comando de seus poderes psíquicos. Detestando todas as formas 
+de contenção física, ele recusa-se a usar qualquer tipo de armadura, estando 
+totalmente desprotegido quando atacado. O Druida é governado pelo desejo de evitar 
+as pessoas, e obter a perfeita "Unidade" com a energia do Cristal.
+
+
+
+- ASSASSINO -
+Unidade Militar
+Custo		Comida: 10  Pedras: 2	Visão: 7/10
+Arma: mosquete high-tech
+Alcance: 4
+Papel: lutar bravamente
+Recrutamento: Circo
+
+A VIDA DE UM ASSASSINO
+Filho mais novo de um Colonizador, primo em primeiro grau do Capitão, ele aprendeu 
+rapidamente a natureza das feras selvagens e domesticou-as. Ele perdeu o contato com 
+outros humanos e a expressão "ele vive como um urso" o descreve perfeitamente. Ele 
+não gosta de falar com outras pessoas e é muito desconfiado. Um cavaleiro brilhante 
+com coração valente, ele luta ferozmente para proteger sua monta e os animais 
+localizados no Circo. Todos os membros da família circense unem-se quando em perigo, 
+uma habilidade aprendida após anos de treino em times acrobáticos....
+
+
+- CAPITÃO-
+Unidade Militar
+Custo		Comida: 10 Pedras: 3	Visão: 8/10
+Armas: canhão de cristal
+Alcance: 8
+Papel: comandante rígido das tropas
+Recrutamento: Alojamento
+
+A VIDA DO CAPITÃO
+O filho mais velho de um Druida, ele passou pela Iniciação do Cristal e ficou com uma 
+lasca deste presa a seu ombro esquerdo. Ao invés de se desesperar, ele colocou-a em 
+bom uso, transformando-a em uma arma. Ele não poderia se tornar um Druida por causa 
+de seu braço artificial, então ele confinou seu tronco em uma armadura de titânio e 
+treinou-se para se tornar uma máquina sanguinária sem misericórdia. Metade homem, 
+metade robô, ele possui força hercúlea e a habilidade inata de "ler" inimigos, o que o 
+torna valioso para as forças armadas. Quanto ao seu perfil psicológico, ele é o único 
+capaz de controlar o poder do Canhão de Cristal; ele até mesmo auxiliou os 
+pesquisadores no processo de delineamento. Ninguém é tão inteligente e bravo e sua 
+posição como Capitão das Forças Armadas é incontestável. Sua presença inspira as 
+tropas e gera suspiros de medo entre as fileiras inimigas.
+
+
+
+-PISOTEADOR-
+Unidade Militar
+Custo		Comida: 15  	Pedras: 5	Visão: 7/10
+Arma: short morteiro
+Alcance: 8
+Papel: lutador incansável
+Recrutamento: Circo
+
+A VIDA DE UM PISOTEADOR
+Sobrinho do Capitão, filho mais novo do Druida, ele encontrou seu chamado a sua 
+montaria favorita, os rinocerontes. Ele possui poder destrutivo, e o rinoceronte furioso dá-
+lhe mais do que ele pode administrar. Como seu amigo Assassino, ele prefere a 
+companhia das bestas à do ser humano. Reza a lenda que enquanto treinava para um 
+espetáculo circense um vagabundo de rua tentou roubar-lhe o rinoceronte. O pequeno 
+meliante terminou empalado por um chifre de rinoceronte e a idéia do Pisoteador nasceu. 
+Enquanto isso, o marginal se recuperou e tornou-se um "matador" de rinocerontes. 
+
+
+- MENSAGEIRO -
+Unidade Militar
+Custo		Comida: 2	Visão: 5/10
+Arma: nenhuma
+Papel: negociar com outros clãs
+Recrutamento: Mercado
+
+A VIDA DE UM MENSAGEIRO
+O Mensageiro é um dos membros mais interessantes do clã. Ele foi o que mais se 
+beneficiou de sua infância entre os intelectuais, o que fica evidente quando ele abre sua 
+valise de couro para as negociações no Mercado. Essas habilidades lhe valeram o 
+apelido de "Chapéu Negro". Seus sapatos feitos a mão permitem que ande por longas 
+distâncias sem criar calos ou se sentir fatigado. O Mensageiro é absolutamente essencial 
+para fechar negócios e formar alianças. Totalmente obcecado pela sua missão 
+diplomática, ele chega até a esquecer de comer. 
+
+
+VEÍCULOS
+
+
+- COLHEITADEIRA -
+Unidade Civil 
+Custo...	Comida: 10	Metal: 8
+Visão: 5/10
+Arma: Nenhuma
+Papel: colher Comida
+Número de passageiros: pode comportar um máximo de 5 unidades (5 passageiros ou 5 
+sacas de Comida ou uma combinação de ambos).
+
+O TRABALHO DA COLHEITADEIRA
+Manuseada por um servidor civil, esse veículo movido a vapor dá ao Fazendeiro uma 
+grande ajuda. Antes de sua existência, o Fazendeiro trabalhava 16 horas por dia para 
+alimentar os Colonizadores. O motor a vapor alinhado com virabrequim de cabeçote 
+duplo suspenso do modelo retrô R1 foi construído para condições extremas e cargas 
+pesadas, enquanto seu padrão interior de veludo com assentos baixos e um sistema 
+estéreo com 4 alto-falantes oferece conforto sem precedentes e grande prazer ao dirigir 
+(direção ultra-macia é oferecida apenas nos modelos da série CHRONO). O preço baixo 
+e grande capacidade de carga tornam essa máquina absolutamente essencial para o 
+futuro do seu clã..
+
+
+- RIBOMBADOR -
+Unidade Militar
+Custo...	Comida:10	Metal: 5
+Visão: 10/10
+Arma: Canhão Explosivo
+Papel: transporte de tropas e veículo de ataque
+Alcance: 10
+
+O SERVIÇO DO  RIBOMBADOR
+O Ribombador é um veículo de transporte pesado que vem carregado com mega poder 
+de fogo - o Canhão Explosivo, um canhão feito sob encomenda para transformar pedra 
+em poeira e inimigos em um monte de sangue e vísceras! Seus dois motores a vapor estão 
+protegidos por uma blindagem de 5 cm, oferecendo proteção mais do que ampla para 
+os passageiros. Em uma pequena idéia de gênio, os engenheiros mecânicos descobriram 
+um jeito de desviar calor do motor para compartimento de passageiros, para 
+proporcionar maior conforto nos dias de tempo ruim. O único problema deste 
+equipamento é seu sistema de suspensão: ele não existe. Isso significa uma viajem dura, 
+chacoalhante e cheia de reclamações dos passageiros.  
+
+
+- ACELERADOR -
+Unidade Militar
+Custo...	Comida: 8	Metal: 4
+Visão: 5/10
+Arma: metralhadora de resfriamento a líquido
+Papel: veículo de proto ataque
+Range: 4
+
+O SERVIÇO DO ACELERADOR
+Rápido, leve e relativamente barato, o Acelerador é o veículo ideal para 
+reconhecimento. Com sua metralhadora resfriada a líquido, pode servir também como 
+veículo de ataque. O chassis monocoque reforçado oferece características soberbas de 
+manobra, o que ajuda a evitar colisões. Sob o capô há um V-12 super-modificado que 
+fornece 800 cavalos com 10,000rpm. Os primeiros modelos fora de linha vibravam tanto 
+que os pinos saltaram e as partes do corpo desmontaram. Não é necessário dizer que os 
+problemas foram retificados e que os novos modelos andam macio como seda e rápido 
+como o trovão....
+
+
+- BOMBARDEIRO -
+Unidade Militar
+Custo		Comida: 12	 Metal: 6	Visão: 5/10
+Papel: depositar explosivos no solo
+Alcance dos Explosivos: 4
+Número de Explosivos: 5 (carregados na Garagem)
+
+O SERVIÇO DO BOMBARDEIRO
+O Bombardeiro e um veículo terrestre. Explosivos são tão instáveis que o Mecânico 
+equipou este equipamento com o sistema de suspensão mais moderno.
+
+
+- FOGO DO INFERNO -
+Unidade militar-religiosa
+Custo		Comida: 20	 Metal: 10Visão: 10/10
+Arma: canhão poderoso
+Papel: transporte de tropas e veículo de ataque
+Alcance: 8
+
+O PAPEL DO FOGO DO INFERNO
+Os Druidas receberam essa invenção com grande júbilo. Finalmente um veículo 
+totalmente movido a luz solar através do poder da física aplicada. Seus canhões 
+tremendamente poderosos cospem fogo do inferno, daí o nome. As fendas oculares 
+permitem ao motorista e Druidas dirigir-se ao alvo e  transformá-lo em torresmos....
+
+
+- BALÃO-
+Unidade aérea
+Custo	vem grátis com seu Heliporto	Visão: 10/10
+Papel: transporte de tropas
+Número de passageiros:  5
+
+O SERVIÇO DO BALÃO
+Usando idéias básicas de um pedaço de pergaminho assinado por 'Mongolfier' (o 
+inventor do balão), alguns engenheiros aeronáuticos se uniram para carimbar essa 
+invenção. É a única máquina voadora que pode mover suas tropas (excetuando-se o 
+Arqueiro) pelo ar. O Balão é indestrutível.
+
+
+- HELIPED -
+Unidade aérea
+Custo		Comida: 20	Metal: 3	Visão: 10/10
+Arma: Bombas
+Papel: unidade de suporte aéreo
+Alcance: 4
+Número de passageiros: nenhum
+
+O SERVIÇO DO HELIPED
+O Heliped é o resultado de pesquisa apaixonada. Acadêmicos reclamavam 
+incessantemente a respeito do calor, até que resolveram construir um ventilador gigante. 
+Quando eles ligaram-no, ele destruiu todos os edifícios ao seu redor. Obviamente não 
+daria para usá-lo deste jeito, então eles voltaram à prancheta e surgiram com uma 
+poderosa unidade aérea - o Heliped....
+
+
+
+
+Importante: alguns ajustes de último minuto ou modificações não aparecem neste 
+manual; eles podem provavelmente ser encontrados em «Readme.txt»(em inglês), incluído no CD. 
+
+
+
+
+www.microids.com
+www.fullgames.com.br
+
+
